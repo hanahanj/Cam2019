@@ -1,0 +1,58 @@
+Title: Multilang Sites
+
+----
+
+Text:
+
+Our Themes are ready to be translated. Only 3 steps are required.
+
+## Configure your languages
+First you need to tell kirby wich languages you will be using, this is done by editing the `/site/config/config.php` file.
+English is pre-registered and set as a default language, so you just need to add your other languages as a simple associative array.
+
+```
+c::set('languages', array(
+  array(
+    'code'    => 'en',
+    'name'    => 'EN',
+    'default' => true,
+    'locale'  => 'en_US',
+    'url'     => '/',
+  ),
+  array(
+    'code'    => 'fr',
+    'name'    => 'FR',
+    'locale'  => 'fr_FR',
+    'url'     => '/fr',
+  ),
+  array(
+    'code'    => 'de',
+    'name'    => 'DE',
+    'locale'  => 'de_de',
+    'url'     => '/de',
+  ),
+));
+```
+
+## Translate Theme Variables
+Navigate into the `/sites/languages` folder and duplitate the file `en.php` and name it with the specific language shortcode.
+Repeat for each available languages and edit the new files with you translations.
+
+## Translate you Content
+You can now translate your content throught the Panel.
+
+## Access your translations
+Now that everything is translated you may want to let your visitor access your site in the language their prefer.
+You have 2 choices:
+- **Automatic Language Detection:** Kirby can detect the prefered language of the visitor. This has to be activated by adding this in you `/site/config/config.php`:
+```
+c::set('language.detect', true);
+```
+
+- **Let the visitors select their prefered language** by adding a language selector in the menu, this can be done in the (link: docs/getting-started text: Site Options) configuration page.
+
+You can also combine these 2 solutions.
+
+----
+
+Bgcolor: #7746d0

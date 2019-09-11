@@ -1,0 +1,53 @@
+Title: Amy Reidel
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_reidel_amy.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 5627 Milentz Ave, St. Louis, MO 63109
+**Media:** Drawing, Mixed Media, Painting
+**Studio Features:** Refreshments, Work For Sale
+
+(link: http://www.amyreidel.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/amy.reidel text: Instagram class: button button-blue-outline)
+
+
+(image: 01_reidel_amy.jpg caption: Amy Reidel, from "72 Weeks," 2018. Mixed media on paper. Courtesy the artist. )
+(image: 02_reidel_amy.jpg caption: Amy Reidel, Pigtails, 2018. Acrylic, collage, faux fur, flaggers tape, lint, medical tape, paint skins, spray foam and staples on panel. Courtesy the artist. )
+(image: 03_reidel_amy.jpg caption: Amy Reidel, from "72 Weeks," 2018. Mixed media on paper. Courtesy the artist. )
+(image: 04_reidel_amy.jpg caption: Amy Reidel, Love tumor [Crystal storm hair] [detail], 2016. Studio remnants and mixed media on baby blanket. Courtesy the artist. )
+(image: 05_reidel_amy.jpg caption: Amy Reidel, Bath, 2018. Watercolor, fake hair and hot glue on paper. Courtesy the artist. )
+
+
+++++
+
+Using materials like collage, hot glue, paint, glitter, medical tape, lint, pastel, graphite and more, I construct works on paper, canvas and small sculptures that represent themes of feminine identity, familial love, bodily trauma and joy. These seemingly disparate issues and emotions come together in my often abstract, colorful and hopefully poignant work, in the same way they can uncomfortably come together in life.
+
+(…columns)
+
+----
+
+Tags: Sunday,Drawing,Mixed_Media,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

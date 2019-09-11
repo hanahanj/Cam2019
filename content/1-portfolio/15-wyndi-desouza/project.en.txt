@@ -1,0 +1,54 @@
+Title: Wyndi DeSouza
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 05_desouza.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 3517 Magnolia Ave, 1F, St. Louis, MO 63118
+**Media:** Digital Media, Mixed Media, Photography
+**Studio Features:** Child-Friendly, Refreshments, Work For Sale
+
+(link: http://www.wyndidesouza.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/wyndidesouza text: Instagram class: button button-blue-outline)
+
+
+(image: 01_desouza.jpg caption: Wyndi DeSouza, Untitled Project on Mapping Project; Case Study Trauma, 2016. Installation with inkjet prints and video projection. Courtesy the artist.)
+(image: 02_desouza.jpg caption: Wyndi DeSouza, Untitled Project on Mapping Project; Case Study Trauma 1-20 Full Reveal, 2016. Video animation. Courtesy the artist.)
+(image: 03_desouza.jpg caption: Wyndi DeSouza, page taken from Untitled Project on Mapping Project; Case Study Trauma Sent/Received, 2016. Inkjet printed zine. Courtesy the artist.)
+(image: 04_desouza.jpg caption: Wyndi DeSouza, Untitled, 2016. Inkjet print. Courtesy the artist.)
+(image: 05_desouza.jpg caption: Wyndi DeSouza, Untitled, 2018. Inkjet print. Courtesy the artist.)
+
+
+++++
+
+Borrowing from, as well as rejecting, the principals of data visualization, my work takes non-quantitative information and seeks to visualize it. Through the use of an artistic algorithm, I create systems for visualizing individual life, connection between two or more people, location, emotions, and the experience of trauma. The systems are translated into written rules and sent out into the world. The information received, whether a photograph or drawing is a collaboration with the community, locally and nationally, that illustrates geographical connections and social data.<br>
+By utilizing photography, books, video, animation, and sound, I explore different means to present the data I collect. The work comes together in an archive and the information presented is a discovery of that data, as well as a compaction, rationalization, and translation of history and experience. My work utilizes the archive not only to examine the data, but also to complicate the viewer's idea of social data and the lived human experience.
+
+(…columns)
+
+----
+
+Tags: Saturday,Digital_Media,Mixed_Media,Painting,ADA_Accessible
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

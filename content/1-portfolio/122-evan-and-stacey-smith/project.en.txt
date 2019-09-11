@@ -1,0 +1,53 @@
+Title: Evan and Stacey Smith
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_smith.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 5909 Scanlan Ave, St. Louis, MO 63139
+**Media:** Installation, Mixed Media, Sculpture
+**Studio Features:** Child-Friendly, Restroom, Refreshments
+
+(link: http://www.evanandstacey.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/evanandstacey text: Instagram class: button button-blue-outline)
+
+
+(image: 01_smith.jpg caption: Evan and Stacey Smith, Liminal Space, 2017. Mixed media. Courtesy the artists.)
+(image: 02_smith.jpg caption: Evan and Stacey Smith, Liminal Space, 2017. Mixed media. Courtesy the artists.)
+(image: 03_smith.jpg caption: Evan and Stacey Smith, Liminal Space, 2017. Mixed media. Courtesy the artists.)
+(image: 04_smith.jpg caption: Evan and Stacey Smith, Liminal Space, 2017. Mixed media. Courtesy the artists.)
+(image: 05_smith.jpg caption: Evan and Stacey Smith, Liminal Space, 2017. Mixed media. Courtesy the artists.)
+
+
+++++
+
+Evan and Stacey Smith are a collaboration from Saint Louis, Missouri. Their work manifests their own union of art and science creating sculptures that seamlessly meld the two disciplines and can be appreciated by both audiences. They use newer technologies including 3D printing, laser cutting, CNC machining, computer programing, custom fabrication, and custom electronics. Their current work investigates secular and sacred views of objects and spaces.
+
+(…columns)
+
+----
+
+Tags: Sunday,Installation,Mixed_Media,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

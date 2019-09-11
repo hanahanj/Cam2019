@@ -1,0 +1,52 @@
+Title: Patrick L. Bellmann
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 02_bellmann.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Soulard Art Gallery, 2028 S 12th St, St. Louis, MO 63104
+**Media:** Digital Media, Photography
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://soulardartgallery.wixsite.com/home text: Website class: button button-blue-outline)
+
+
+(image: 01_Bellmann.jpg caption: Patrick L. Bellmann, View from the Boardwalk at Malcolm W. Martin Memorial, 2017. Manipulated digital photo. Courtesy the artist and Soulard Art Gallery.)
+(image: 02_Bellmann.jpg caption: Patrick L. Bellmann, Tampa Bridge, 2017. Manipulated digital photo. Courtesy the artist and Soulard Art Gallery.)
+(image: 03_Bellmann.jpg caption: Patrick L. Bellmann, Psychedelic Chicago Fountain, 2017. Manipulated digital photo. Courtesy the artist and Soulard Art Gallery.)
+(image: 04_Bellmann.jpg caption: Patrick L. Bellmann, Canoes on the beach in Kawai, 2016. Digital photo. Courtesy the artist and Soulard Art Gallery.)
+(image: 05_Bellmann.jpg caption: Patrick L. Bellmann, Chicago Skyline, 2017. Manipulated digital photo. Courtesy artist and Soulard Art Gallery.)
+
+
+++++
+
+I am Patrick L. Bellmann and one of the resident artists at the Soulard Art Gallery, I have been there several years and have displayed my photograhy of places, people and things that interest me hoping to share that interest with others. I am in a wheelchair and have a different perspective than most. I hope you come to enjoy my work.
+
+(…columns)
+
+----
+
+Tags: Saturday,Digital_Media,Photography,ADA_Accessible
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

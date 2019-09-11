@@ -1,0 +1,53 @@
+Title: David Ottinger
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_ottinger.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 5223 Gravois Ave, St. Louis, MO 63116
+**Media:** Drawing, Printmaking, Painting
+**Studio Features:** Restroom, Refreshments, Work For Sale
+
+(link: http://www.Davidottinger.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/Ottingerdavid text: Instagram class: button button-blue-outline)
+
+
+(image: 01_ottinger.jpg caption: David Ottinger, Lost, 2018. Oil on canvas. Courtesy the artist.)
+(image: 02_ottinger.jpg caption: David Ottinger, Soror, 2017. Oil on linen. Courtesy the artist.)
+(image: 03_ottinger.jpg caption: David Ottinger, The Decision, 2017. Oil on canvas. Courtesy the artist.)
+(image: 04_ottinger.jpg caption: David Ottinger, The Joke That Isn't Funny Anymore, 2016. Graphite on arches. Courtesy the artist.)
+(image: 05_ottinger.jpg caption: David Ottinger, Kathy, 2013. Oil on canvas. Courtesy the artist.)
+
+
+++++
+
+Only that which redefines the definition of the word has any chance to become that which it pretends to define. As a student, I was enchanted with the idea of bringing Psychology and Painting together in a way that defines the moment when an individual makes a decision about a dilemma or idea. That still holds true today.
+
+(…columns)
+
+----
+
+Tags: Sunday,Drawing,Painting,Printmaking
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

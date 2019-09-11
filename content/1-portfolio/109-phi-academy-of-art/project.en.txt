@@ -1,0 +1,52 @@
+Title: Phi Academy of Art
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01molano.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 4210 Chippewa St, St. Louis, MO 63116
+**Media:** Drawing, Painting, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.phiacademyofart.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/phiacademyofart text: Instagram class: button button-blue-outline)
+
+
+(image: 01molano.jpg caption: Mac Molano, Bun, 2018. Terra Cotta Clay. Courtesy the artist and Phi Academy of Art.)
+(image: 02molano.jpg caption: Mac Molano, Ballerina, 2016. Ball point pen on drawing paper. Courtesy the artist and Phi Academy of Art.)
+(image: 03molano.jpg caption: Mac Molano, EP, 2017. Terra Cotta Clay. Courtesy the artist and Phi Academy of Art.)
+(image: 04molano.jpg caption: Mac Molano, Witch, 2015. Ball point pen on drawing paper. Courtesy the artist and Phi Academy of Art.)
+
+
+++++
+
+Phi Academy of Art offers a classical education in Drawing, Painting and Sculpture. Phi Academy focuses on teaching foundational art skills by direct observation of human form, anatomy, plaster cast copies and still lifes.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Painting,Sculpture,Drawing
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

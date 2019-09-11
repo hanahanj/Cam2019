@@ -1,0 +1,18 @@
+Title: Artist List
+
+----
+
+Text: 
+
+(link: portfolio/kelly-miller text: Kelly Miller)
+artist 2
+artist 3
+artist 4
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #000000

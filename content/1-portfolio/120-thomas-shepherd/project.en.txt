@@ -1,0 +1,52 @@
+Title: Thomas Shepherd
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_shepherd.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 3826 Folsom Ave, St. Louis, MO 63110
+**Media:** Mixed Media, Photography
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.tsgallery.org text: Website class: button button-blue-outline)
+
+
+(image: 01_shepherd.jpg caption: Thomas Shepherd, Untitled, 2011. Mixed media. Courtesy the artist. )
+(image: 02_shepherd.jpg caption: Thomas Shepherd, Nude, 2017. Photo on canvas. Courtesy the artist. )
+(image: 03_shepherd.jpg caption: Thomas Shepherd, Rico Menudo, 2017. Photo on canvas. Courtesy the artist. )
+(image: 04_shepherd.jpg caption: Thomas Shepherd, Untitled, 2017. Photo on canvas. Courtesy the artist. )
+(image: 05_shepherd.jpg caption: Thomas Shepherd, The Pad, 2017. Photo on canvas. Courtesy the artist. )
+
+
+++++
+
+My studio incorporates mixed-media and photography to create a vast array of artwork.
+
+(…columns)
+
+----
+
+Tags: Sunday,Mixed_Media,Photography
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

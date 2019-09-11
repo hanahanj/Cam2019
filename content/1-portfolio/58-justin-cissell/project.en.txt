@@ -1,0 +1,53 @@
+Title: Justin Cissell
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_cissell.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Phi Academy of Art, 4210 Chippewa St, St. Louis, MO 63116
+**Media:** Drawing, Painting, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.phiacademyofart.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/sculptastic text: Instagram class: button button-blue-outline)
+
+
+(image: 01_cissell.jpg caption: Justin Cissell, Untitled, 2018. Fired clay. Courtesy the artist.)
+(image: 02_cissell.jpg caption: Justin Cissell, Untitled, 2014. Fired clay. Courtesy the artist.)
+(image: 03_cissell.jpg caption: Justin Cissell, Untitled, 2018. Charcoal on paper. Courtesy the artist.)
+(image: 04_cissell.jpg caption: Justin Cissell, Untitled, 2017. Charcoal on paper. Courtesy the artist.)
+(image: 05_cissell.jpg caption: Justin Cissell, Untitled, 2018. Charcoal on paper. Courtesy the artist.)
+
+
+++++
+
+Phi Academy of Art offers a classical education in Drawing, Painting, and Sculpture. Phi Academy focuses on teaching foundational art skills by direct observation of the human form, anatomy, plaster cast copies, and still lifes.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Drawing,Painting,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

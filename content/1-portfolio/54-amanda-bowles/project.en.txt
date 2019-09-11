@@ -1,0 +1,55 @@
+Title: Amanda Bowles
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_bowles.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 2152 Blendon Pl, St. Louis, MO 63143
+**Media:** Installation, Performance, Time-based Media
+**Studio Features:** Installation, Performance, Time-based Media
+
+(link: http://www.amandaelisebowles.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/aebowles text: Instagram class: button button-blue-outline)
+
+
+(image: 01_bowles.jpg caption: Amanda Bowles, grandaddy, 2014-ongoing. Sodium Chloride on Shipping Tube. Courtesy the artist.)
+(image: 02_bowles.jpg caption: Amanda Bowles, Holding Smiles @ Subdivision, 2016. Installation with live performance. Courtesy the artist.)
+(image: 03_bowles.jpg caption: Amanda Bowles, Performance detail: Holding Smiles @ Subdivision, 2016. Courtesy the artist.)
+(image: 04_bowles.jpg caption: Amanda Bowles, BigBB and DreamScreenSavers, 2014. Sodium chloride on dum-dums, wax, and acrylic. Courtesy the artist.)
+(image: 05_bowles.jpg caption: Amanda Bowles, A Festival to Planned Obsolescence, 2013 - ongoing. Studio Performances. Courtesy the artist.)
+
+
+++++
+
+I am an interdisciplinary artist whose work experiments with duration. I utilize material-specific processes to express a yearning for deep-time in the age of no-time. Employing mundane rituals, I construct artifacts that visualize duration, loosely coalescent aggregates in video, installation, performance and text.<br>
+Interested in the ways relationships between self and others are evolving, as temporal experience is re-framed by digital technologies and publics are rearranged into networks. I work between the on and offline. My practice demarcates the studio as a site for transformation and transmission, production and performance, making space for happy and unhappy collisions.<br> 
+I received my BFA in Painting from the Kansas City Art Institute and MFA in Art Theory & Practice from Northwestern University. I was born in Alexandria, VA and am currently based in Saint Louis, MO.
+
+(…columns)
+
+----
+
+Tags: Sunday,Installation,Performance,Time-based_Media
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

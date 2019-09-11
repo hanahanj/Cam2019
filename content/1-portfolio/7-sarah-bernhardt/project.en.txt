@@ -1,0 +1,53 @@
+Title: Sarah Bernhardt
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_bernhardt.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Intersect Arts Center, 3636 Texas Ave, St. Louis, MO 63118
+**Media:** Digital Media, Painting, Photography
+**Studio Features:** ADA Accessible, Outdoors, Restroom, Refreshments, Work For Sale
+
+(link: https://www.sarahbernhardtart.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/srbernhardt text: Instagram class: button button-blue-outline)
+
+
+(image: 01_Bernhardt.jpg caption: Sarah Bernhardt, Welcome Window, 2017. Digital collage. Courtesy the artist.)
+(image: 02_Bernhardt.jpg caption: Sarah Bernhardt, Door Number..., 2017. Digital collage. Courtesy the artist.)
+(image: 03_Bernhardt.jpg caption: Sarah Bernhardt, Dropped Ceiling, 2017. Digital collage. Courtesy the artist.)
+(image: 04_Bernhardt.jpg caption: Sarah Bernhardt, Pipeline, 2017. Digital collage. Courtesy the artist.)
+(image: 05_Bernhardt.jpg caption: Sarah Bernhardt, Access, 2017. Digital collage. Courtesy the artist.)
+
+
+++++
+
+My work explores the complex layers of community re-habitation through the lenses of history, architecture, movement, and body using photography, painting, and time-based media. I received my MFA from Washington University in St. Louis and am the director of Intersect Arts Center and Gallery, as well as a professor at the University of Missouri St. Louis and SLU.
+
+(…columns)
+
+----
+
+Tags: Saturday,Digital_Media,Photography,ADA_Accessible
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

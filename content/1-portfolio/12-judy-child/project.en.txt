@@ -1,0 +1,52 @@
+Title: Judy Child
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 02_child.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** City Museum, 701 N 15th St, 4th Fl, St. Louis, MO 63103
+**Media:** Painting
+**Studio Features:** ADA Accessible, Child-Friendly, Work For Sale
+
+(link: https://instagram.com/judychild text: Instagram class: button button-blue-outline)
+
+
+(image: 01_child.jpg caption: Judy Child, Artist Studio, 2018.)
+(image: 02_child.jpg caption: Judy Child, IN BETWEEN 1 [detail], 2017. Acrylic on canvas. Courtesy Bruno David Gallery.)
+(image: 03_child.jpg caption: Judy Child, UNSEEN [detail], 2017. Acrylic on canvas. Courtesy Bruno David Gallery.)
+(image: 04_child.jpg caption: Judy Child, NEXT TIME, 2017. Acrylic on canvas. Courtesy Bruno David Gallery.)
+(image: 05_child.jpg caption: Judy Child, FINALE, 2017. Acrylic on canvas. Courtesy Bruno David Gallery.)
+
+
+++++
+
+As an artist, I have always been interested in how versatile paint can be. The physical act of pouring and manipulating the paint plus the effects of gravity and the drying process determine the outcome of my work.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

@@ -1,0 +1,53 @@
+Title: Wildwood Press LLC
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 02_wildwood.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** City Museum, 701 N 15th St, 403E, St. Louis, MO 63103
+**Media:** Mixed Media, Printmaking
+**Studio Features:** ADA Accessible, Restroom, Refreshments, Work For Sale
+
+(link: http://wildwoodpress.us text: Website class: button button-blue-outline)
+(link: https://instagram.com/wildwoodpress text: Instagram class: button button-blue-outline)
+
+
+(image: 01_wildwood.jpg caption: Juan Sanchez, Rosa, 2007. Collagraph and litho on handmade paper. Courtesy Wildwood Press LLC. Photo: Red Elf, St. Louis.)
+(image: 02_wildwood.jpg caption: Christine Corday, Relative Point, 2017. Monoprint on handmade paper. Courtesy Wildwood Press LLC. Photo: Red Elf, St. Louis.)
+(image: 03_wildwood.jpg caption: Linda Schwarz, Crossword II, 2007. 11 of 15ev, litho on handmade paper. Courtesy Wildwood Press LLC. Photo: Red Elf, St. Louis.)
+(image: 04_wildwood.jpg caption: Michele Oka Doner, Stephanie, 2009. 3 of 8ev, relief on handmade paper. Courtesy Wildwood Press LLC. Photo: Red Elf, St. Louis.)
+(image: 05_wildwood.jpg caption: Xiaoze Xie, Chinese Library [Fudan University], 2015. Litho and handcoloring on handmade paper. Courtesy Wildwood Press LLC. Photo: Red Elf, St. Louis.)
+
+
+++++
+
+I founded Wildwood Press in 1996. I specialize in collaborative projects with artists from around the world. Known for its custom handmade paper and large format presses, Wildwood Press is a destination for artists who may choose to meet the challenge of an etching press that is capable of printing five-foot by ten-foot images. Dedicated to experimentation and the unexpected, the prints from Wildwood Press strive to redefine what a print can be.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Mixed_Media,Printmaking
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

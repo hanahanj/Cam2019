@@ -1,0 +1,53 @@
+Title: Garage Studios
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 02_avant.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Address
+**Media:** Jewelry, Printmaking, Painting
+**Studio Features:** Restroom, Refreshments, Work For Sale
+
+(link: http://www.cheap-fun.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/Kathavant text: Instagram class: button button-blue-outline)
+
+
+(image: 02_avant.jpg caption: Katherine Avant, page from "Printmaking in Parks," 2018. Handmade zine. Courtesy the artist.)
+(image: 03_avant.jpg caption: Marnie Claunch, Untitled, 2018. Acrylic. Courtesy the artist.)
+(image: 04_avant.jpg caption: Marnie Claunch, Brody, 2018. Acrylic. Courtesy the artist.)
+(image: 05_avant.jpg caption: Brian Barkhurst, Jack and Rose, 2018. Acrylic on wood. Courtesty the artist. )
+
+
+++++
+
+Garage Studios: Katherine Avant, Marnie Claunch, Brian Barkhurst, CJ Mitchell, Shawna Williams, Karen Bult, Jennifer Flynn, Georgia Cucci, Kelly Eckert, Charlotte Schweppe, Julie Graden, Adelia Perker Castro, and Cindy Pastard<br>
+At Garage Studios, we engage in play as an integral part of our art-making. We conduct meet-ups where we teach each other about printmaking, jewelry, paint techniques, mixed media, fabric dying and more. We are a community of artists that take play very seriously. 
+
+(…columns)
+
+----
+
+Tags: Sunday,Jewelry,Printmaking,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

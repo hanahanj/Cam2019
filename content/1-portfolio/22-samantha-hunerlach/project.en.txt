@@ -1,0 +1,53 @@
+Title: Samantha Hunerlach
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_hunerlach.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Intersect Arts Center, 3636 Texas Ave, St. Louis, MO 63118
+**Media:** Fiber, Mixed Media, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://samanthahunerlach.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/samanthahunerlachstudio text: Instagram class: button button-blue-outline)
+
+
+(image: 01_hunerlach.jpg caption: Samantha Hunerlach, Rebirth, 2018. String. Courtesy the artist.)
+(image: 02_hunerlach.jpg caption: Samantha Hunerlach, Sexual Decency, 2018. Bed sheet and resin. Courtesy the artist.)
+(image: 03_hunerlach.jpg caption: Samantha Hunerlach, Salvage, 2017. Crocheted blanket and resin. Courtesy the artist.)
+(image: 04_hunerlach.jpg caption: Samantha Hunerlach, Begin, 2018. Lace and ash. Courtesy the artist.)
+(image: 05_hunerlach.jpg caption: Samantha Hunerlach, Exertion, 2018. Lace and mud. Courtesy the artist.)
+
+
+++++
+
+My current body of works explores human interaction and identity. I am specifically interested in investigating how our identities are formed through interactions with others. I frequently use fabric and other malleable materials to create illusions of actions that have been halted or frozen in time. This creates a dialogue between material and form that investigates the fragility of these moments that define us. I reflect on my personal experience with sexual assault and domestic violence to question the human capacity to act with both intended violence and compassion. This results in objects and installations that highlight dualities that exist within human nature and encourages the viewer to evaluate their own interactions.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Fiber,Mixed_Media,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

@@ -1,0 +1,55 @@
+Title: The Collab
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 04_mitchell.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 7421 S Broadway, St. Louis, MO 63111
+**Media:** Architecture / Urban Design, Installation, Sculpture
+**Studio Features:** Restroom, Refreshments
+
+(link: http://www.thecollab.us text: Website class: button button-blue-outline)
+(link: https://instagram.com/albiemitchell text: Instagram class: button button-blue-outline)
+
+
+(image: 01_mitchell.jpg caption: Albie Mitchell, Green Varnish, installation, 2015. Designed by Nomad Studio. Photo: Collab LLC.)
+(image: 02_mitchell.jpg caption: Albie Mitchell, Green Varnish, installation, 2015. Designed by Nomad Studio. Photo: Nomad Studio.)
+(image: 03_mitchell.jpg caption: Albie Mitchell, Large Globe Pendant, 2018. Lighting design. Photo: Collab LLC.)
+(image: 04_mitchell.jpg caption: Albie Mitchell, Large Globe Pendant, 2018. Lighting design. Photo: Collab LLC.)
+(image: 05_mitchell.jpg caption: Albie Mitchell, Studio space, 2017. Interior design. Photo: Collab LLC.)
+
+
+++++
+
+COLLAB [kuh-lab] is short for Collaboration. That means we want to create something amazing with you.<br>
+We are all about making things. COLLAB is a design studio committed to creating work that is innovative and unique. We love constraints because they inform our design decisions and shape our process. COLLAB's design approach is local, digital, and collaborative, generating contemporary design at the intersection of material, function, and process. All of our work is the result of extensive experience as well as continuing research and experimentation with materials and fabrication techniques.<br>
+Each project is developed with a commitment to sustainability and reinvestment in our community by working closely with local artists, designers, and fabricators in the St. Louis metropolitan area. COLLAB was founded in 2011 by Albie Mitchell.
+
+(…columns)
+
+----
+
+Tags: Saturday,Architecture,Installation,Sculpture,Urban_Design
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

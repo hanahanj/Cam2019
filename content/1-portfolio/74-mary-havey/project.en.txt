@@ -1,0 +1,52 @@
+Title: Mary Havey
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_havey.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Webster University, 8342 Big Bend Blvd, St. Louis, MO 63119
+**Media:** Ceramics, Mixed Media, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.webster.edu/art/ text: Website class: button button-blue-outline)
+
+
+(image: 01_havey.jpg caption: Mary Havey, Closer, 2017. Sculpey clay and paint. Courtesy the artist.)
+(image: 02_havey.jpg caption: Mary Havey, Bunny, 2018. Wood, foam, fabric and mixed media. Courtesy the artist.)
+(image: 03_havey.jpg caption: Mary Havey, Untitled, 2018. Wood, fabric and liquid starch. Courtesy the artist.)
+(image: 04_havey.jpg caption: Mary Havey, Characters, 2017. Porcelain slipcast, sponge and felt. Courtesy the artist.)
+(image: 05_havey.jpg caption: Mary Havey, Cloth and Water, 2017. Paper pulp and string. Courtesy the artist.)
+
+
+++++
+
+I have explored capturing the human essence without using traditional characteristics of the human body; sometimes barely recognizable, but still somehow relatable. My particular fascination with the interactions that are conceived through these relationships allows my work to branch off into many directions with many avenues still to explore.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Ceramics,Mixed_Media,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

@@ -1,0 +1,52 @@
+Title: St. Louis Community College - Forest Park
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 02_.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 5435 Highland Park Dr, St. Louis, MO 63110
+**Media:** Ceramics, Printmaking, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Outdoors, Restroom, Refreshments, Work For Sale
+
+(link: http://www.stlcc.edu text: Website class: button button-blue-outline)
+
+
+(image: 01_.jpg caption: )
+(image: 02_.jpg caption: )
+(image: 03_.jpg caption: )
+(image: 04_.jpg caption: )
+(image: 05_.jpg caption: )
+
+
+++++
+
+St. Louis Community College expands minds and changes lives every day by offering high-quality educational experiences leading to degrees, certificates, employment, university transfer, and life-long learning. The Art Annex houses Printmaking, Sculpture and Ceramics studios. Programing includes numerous rotating exhibitions, a visiting artist program, and lectures that are open and available to the greater Saint Louis community and region.
+
+(…columns)
+
+----
+
+Tags: Sunday,Ceramics,Printmaking,Sculpture,ADA_Accessible
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

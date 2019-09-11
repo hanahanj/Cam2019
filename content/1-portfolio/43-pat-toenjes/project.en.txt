@@ -1,0 +1,52 @@
+Title: Pat Toenjes
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 02_toenjes.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Soulard Art Gallery, 2028 S 12th St, St. Louis, MO 63104
+**Media:** Ceramics, Mixed Media, Printmaking
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://soulardartgallery.wixsite.com/home text: Website class: button button-blue-outline)
+
+
+(image: 01_toenjes.jpg caption: Pat Toenjes, Flight of the Phoenix, 2017. Clay monoprint. Courtesy the artist and Soulard Art Gallery.)
+(image: 02_toenjes.jpg caption: Pat Toenjes, Teapot, 2016. Ceramic. Courtesy the artist and Soulard Art Gallery.)
+(image: 03_toenjes.jpg caption: Pat Toenjes, Spoons, 2018. Mosaic/Mixed Media. Courtesy the artist and Soulard Art Gallery.)
+(image: 04_toenjes.jpg caption: Pat Toenjes, Untitled, 2018. Clay monoprint. Courtesy the artist and Soulard Art Gallery.)
+(image: 05_toenjes.jpg caption: Pat Toenjes, Patchwork, 2018. Clay monoprint on black velvet. Courtesy the artist and Soulard Art Gallery.)
+
+
+++++
+
+I am of the resident artists and I work in a variety of medias. Ceramics, clay monoprints and mixed media are my favorites.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Ceramics,Mixed_Media,Printmaking
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

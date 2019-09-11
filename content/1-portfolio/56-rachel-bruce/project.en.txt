@@ -1,0 +1,55 @@
+Title: Rachel Bruce
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_bruce.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Webster University, 8342 Big Bend Blvd, St. Louis, MO 63119
+**Media:** Drawing, Graphic Design / Illustration
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments
+
+(link: http://www.webster.edu/art/ text: Website class: button button-blue-outline)
+(link: https://instagram.com/rachealmbruce text: Instagram class: button button-blue-outline)
+
+
+(image: 01_bruce.jpg caption: Racheal Bruce, Self Portrait on Mirror, 2018. Engraving on Mirror. Courtesy the artist.)
+(image: 02_bruce.jpg caption: Racheal Bruce, One-of-a-Kind Portraits of Nobody in Particular, 2018. Marker, ink, and bookbinding. Courtesy the artist.)
+(image: 03_bruce.jpg caption: Racheal Bruce, Skin Broadsides, 2018. Handmade paper and ink. Courtesy the artist.)
+(image: 04_bruce.jpg caption: Racheal Bruce, Excerpt from Night Light, 2018. Marker, ink and graphite. Courtesy the artist.)
+(image: 05_bruce.jpg caption: Racheal Bruce, Excerpt from Mona Chromatic, 2017. Pastel, graphite and bookbinding. Courtesy the artist.)
+
+
+++++
+
+Sequential art and illustration can transcend the pages and become like film; they call upon imagination. My work strives to tell stories in innovative ways that immerse the viewer and usually feature the human form as a strong narrative element. The figure is a universal communication of emotion, and even in my work that does not blatantly feature the body, it is echoed in the shape of the frame or the organic flow of a texture or design.<br>
+I want to create images that not only submerge the viewer in the narrative, but are also centered on women and marginalized folks. Drawing off of Queer Theory, I aim to infiltrate spaces such as books and fiction, genres such as horror and adventure, mediums like sequential art, and rework the normative and heteronormative.<br>
+I am interested in the strange and the unexpected, and using light, color, and alternative angles to layer a narrative. Working with different mediums, such as printmaking, papermaking, and bookbinding, I am able explore illustration in manners as strange as the subject.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Drawing,Graphic_Design,Illustration
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

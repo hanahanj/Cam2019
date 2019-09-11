@@ -1,0 +1,57 @@
+Title: Judy Dyson
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_dyson.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Soulard Art Gallery, 2028 S 12th St, St. Louis, MO 63104
+**Media:** Drawing, Mixed Media, Painting
+**Studio Features:** Restroom, Refreshments, Work For Sale
+
+(link: http://soulardartgallery.wixsite.com/home text: Website class: button button-blue-outline)
+
+
+(image: 01_dyson.jpg caption: Judy Dyson, Purple Sky Abstract, 2018. Watercolor. Courtesy the artist and Soulard Art Gallery.)
+(image: 02_dyson.jpg caption: Judy Dyson, 8 Oysters, 6 Pearl's, 2018. Watercolor. Courtesy the artist and Soulard Art Gallery.)
+(image: 03_dyson.jpg caption: Judy Dyson, Zentangle Pond Fish, 2016. Watercolor. Courtesy the artist and Soulard Art Gallery.)
+(image: 04_dyson.jpg caption: Judy Dyson, Lone Pine Full Moon Square, 2016. Sumi and watercolor. Courtesy the artist and Soulard Art Gallery.)
+(image: 05_dyson.jpg caption: Judy Dyson, Friedrich in Monk's Clothing, 2018. Watercolor. Courtesy the artist and Soulard Art Gallery.)
+
+
+++++
+
+A variety of mediums and subjects will be found at my space in the Soulard Art Gallery at 12th and Russell.<br>
+Currently my display of Asian style art is punctuated by a paper kimono, made of an old player piano scroll which played music from the opera, "Madame Butterfly." It is trimmed in black and white Asian paper, hand colored by the artist, me! <br>
+The rest of my gallery changes frequently, but now contains pieces of watercolor on yupo, zentangle ink and watercolor, acrylic, pastel, and watercolor.<br>
+I enjoy talking with all of you who come in to see my art. Please stop when you're in the area. <br>
+You have just enough time to take a quick look around when waiting for your table, bar bike ride, or meeting friends for a night on the town. <br>
+Come back and stay for awhile. Friday night openings (once every 5 weeks) are open to the public and offer you live music, appetizers, drinks, and a chance to visit with our artists.
+
+(…columns)
+
+----
+
+Tags: Saturday,Drawing,Mixed_Media,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

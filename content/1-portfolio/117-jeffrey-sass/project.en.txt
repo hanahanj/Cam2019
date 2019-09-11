@@ -1,0 +1,52 @@
+Title: Jeffrey Sass
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_sass.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** The Focal Point, 2720 Sutton Blvd, Maplewood, MO 63143
+**Media:** Jewelry, Painting, Photography
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: https://instagram.com/jeffreysassartist text: Instagram class: button button-blue-outline)
+
+
+(image: 01_sass.jpg caption: Jeffrey Sass, Nikon F 2016. Mixed media. Courtesy the artist.)
+(image: 02_sass.jpg caption: Jeffrey Sass, The Astronaut, 2016. Mixed media. Courtesy the artist.)
+(image: 03_sass.jpg caption: Jeffrey Sass, Shoot Shoot, Fun Fun, 2016. Mixed media. Courtesy the artist.)
+(image: 04_sass.jpg caption: Jeffrey Sass, Speed Graphic X 2. Mixed media. Courtesy the artist.)
+(image: 05_sass.jpg caption: Jeffrey Sass, Robot Drive In, 2014. Mixed media. Courtesy the artist.)
+
+
+++++
+
+My images begin with a photograph. My practice is that of a traditional photographer working in film, vintage and antique cameras, chemistry and the darkness. Each image is a unique creation as it is made one at a time using traditional and historic methods. To insure the uniqueness of the image it is printed on decades old paper, which adds an element of unpredictability to the work. From this beginning the work may be augmented by additional media. My goal is to change the way a photograph is perceived and give the viewer alternatives to how they engage with the work.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Jewelry,Painting,Photography
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

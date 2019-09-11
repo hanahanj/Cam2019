@@ -1,0 +1,54 @@
+Title: Madeline Halpern
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_halpern.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Sam Fox School of Design & Visual Arts, Walker Hall, 1 Brookings Dr, St. Louis, MO 63112
+**Media:** Printmaking, Painting, Sculpture
+**Studio Features:** ADA Accessible, Restroom, Work For Sale
+
+(link: http://madelinehalpern.com text: Website class: button button-blue-outline)
+
+
+(image: 01_halpern.jpg caption: Madeline Halpern, Slick Licks, 2018. Acrylic on wood panel. Courtesy the artist.)
+(image: 02_halpern.jpg caption: Madeline Halpern, Dip Your Toe in, 2018. Acrylic on canvas. Courtesy the artist.)
+(image: 03_halpern.jpg caption: Madeline Halpern, This Must Be the Place, 2018. Acrylic, brass garment hooks, carpet. Courtesy the artist.)
+(image: 04_halpern.jpg caption: Madeline Halpern, via US-54 W/ US-70 W/ I-10 W_ Joshua Tree National Park, 2018. Acrylic sheet. Courtesy the artist and Joshua Tree National Park.)
+(image: 05_halpern.jpg caption: Madeline Halpern, Two Floppy Ladies, 2018. Acrylic, wire, folding chair. Courtesy the artist.)
+
+
+++++
+
+I am a painter, sculptor and printmaker. As a rising senior at the Sam Fox School of Design & Visual Arts I focus my art practice on creating a space or surface for my paint objects to inhabit. <br>
+Paint has a long history of utility. It covers up mistakes, decorates, masks, beautifies. That may be in the form of constructing an image or ornamenting shared spaces. I build visually obscure, paint-ridden, raised surfaces that become home to a variety of paint objects. Amid these surfaces, my paintings act as a family, each member free to exist on its own while remaining a part of a larger nontraditional universe.<br> 
+I am not alone in this exploration of the autonomy of paint as a medium. The members of Art of Duty are merely a glimpse into what art objects do when they are set apart from the age old categories of decoration and display. This is my way of illuminating the truth that art has been art long before we have been here to coin and canonize the term and it can still exist apart from our prying eyes.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Printmaking,Painting,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

@@ -1,0 +1,53 @@
+Title: Mark Sheppard
+
+----
+
+Subtitle: Sheppard Studios LLC
+
+----
+
+Thumbimage: 01_sheppardmark.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 1925 Cherokee St, St. Louis, MO 63118
+**Media:** Drawing, Painting
+**Studio Features:** Refreshments, Work For Sale
+
+(link: http://www.facebook.com/Mark-Sheppard-Artist-159408110790280/ text: Website class: button button-blue-outline)
+(link: https://instagram.com/artistmarks text: Instagram class: button button-blue-outline)
+
+
+(image: 01_sheppardmark.jpg caption: Mark Sheppard, Fortune Teller, 2015. Ink and gouache on paper. Courtesy the artist.)
+(image: 02_sheppardmark.jpg caption: Mark Sheppard, Smoke Like a Chimney, Drink like a Fish, 2013. Ink on paper. Courtesy the artist.)
+(image: 03_sheppardmark.jpg caption: Mark Sheppard, Old Jack O Lantern, 2018. Ink and gouache on paper. Courtesy the artist.)
+(image: 04_sheppardmark.jpg caption: Mark Sheppard, Bass Player, 2015. Ink on paper. Courtesy the artist.)
+(image: 05_sheppardmark.jpg caption: Mark Sheppard, Bat Costume, 2018. Ink and gouache on paper. Courtesy the artist.)
+
+
+++++
+
+Sheppard Studios LLC is my personal studio space where I paint, draw, and make wood painted cutouts, among other things. I opened my storefront as a shop where I sell my own work that I create. I am trained in fine art and also illustration. I find it fascinating when the two come together.
+
+(…columns)
+
+----
+
+Tags: Saturday,Drawing,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

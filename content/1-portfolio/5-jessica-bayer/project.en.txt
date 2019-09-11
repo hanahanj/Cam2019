@@ -1,0 +1,52 @@
+Title: Jessica Bayer
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 04_bayer.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Intersect Arts Center, 3636 Texas Ave, St. Louis, MO 63118
+**Media:** Graphic Design / Illustration
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments
+
+(link: https://www.jessicabayer.com text: Website class: button button-blue-outline)
+
+
+(image: 01_bayer.jpg caption: Jessica Bayer, Pamela Todd Yoga Therapy Logotype, 2017. Vector artwork. Courtesy the designer.)
+(image: 02_bayer.jpg caption: Jessica Bayer, Rainboot Books Logotype, 2016. Vector artwork. Courtesy the designer.)
+(image: 03_bayer.jpg caption: Jessica Bayer, Rainboot Books Business Cards, 2016. Digital prints. Courtesy the designer.)
+(image: 04_bayer.jpg caption: Jessica Bayer, Building Veterans Memorial Auditorium, 2013. Mixed media. Courtesy the designer.)
+(image: 05_bayer.jpg caption: Jessica Bayer, Women in War, 2013. Mixed media. Courtesy the designer.)
+
+
+++++
+
+I am a freelance graphic designer who collaborates with design firms and small businesses in the fields of environmental and identity design. I am passionate about working with nonprofit organizations, small businesses, and individuals that are working to better the world we live in.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Illustration,Graphic_Design
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

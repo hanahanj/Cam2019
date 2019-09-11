@@ -1,0 +1,53 @@
+Title: Benjamin Lowder
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_lowder.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Cherokee Street Gallery, 2617 Cherokee St, St. Louis, MO 63118
+**Media:** Mixed Media, Painting, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Work For Sale
+
+(link: http://www.cherokeestreetgallery.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/cherokeestreetgallery text: Instagram class: button button-blue-outline)
+
+
+(image: 01_lowder.jpg caption: Benjamin Lowder, Arrow from the Sun, 2018. Reclaimed wood and vintage metal signage. Courtesy the artist.)
+(image: 02_lowder.jpg caption: Benjamin Lowder, Boarderlines, 2018. Reclaimed wood and vintage metal signage. Courtesy the artist.)
+(image: 03_lowder.jpg caption: Benjamin Lowder, Geodesic Guardian, 2014. Reclaimed wood and chalk. Courtesy the artist.)
+(image: 04_lowder.jpg caption: Benjamin Lowder, Crush Triptych, 2016. Reclaimed wood and vintage metal signage. Courtesy the artist.)
+(image: 05_lowder.jpg caption: Benjamin Lowder, Kether, Chokmah, Binah, 2016. Reclaimed wood and vintage metal signage. Courtesy the artist.)
+
+
+++++
+
+The practice of making things has held me to this world and kept me from falling into an interior mystic quest for meaning. My current series of artwork is titled "Myth, Math & Magic." It is comprised of two and three dimensional assemblages of reclaimed lumber and vintage metal signage. The advertising tropes of the vintage signs are deconstructed and reassembled into geometric patterns that break the magic spell cast by the advertising. The artifacts are recast to transmute feelings of nostalgia for an unsustainable past while drawing forward ancient wisdom to support an abundant future. These works are magical wayfinding totems to guide our collective cultural trajectory. This artwork uses the shared familiarity of cultural artifacts and makes them strange by transforming them into totems and objects that evoke mystic traditions. The mythos currently transmitted by our culture values consumption and competition over efficiency and cooperation. This unsustainable worldview fuels my desire to transform our culture and manifests itself in my artwork through the transformation of cultural artifacts. Art is the fertile soil from which our culture grows and I want to invest my time and energy into making art that begins to move us back to "the garden."
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Mixed_Media,Painting,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

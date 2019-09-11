@@ -1,0 +1,53 @@
+Title: The St. Louis Artists' Guild
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_guild.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 12 N Jackson Ave, St. Louis, MO 63105
+**Media:** Drawing, Painting, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.stlouisartistsguild.org text: Website class: button button-blue-outline)
+(link: https://instagram.com/stl.artistsguild text: Instagram class: button button-blue-outline)
+
+
+(image: 01_guild.jpg caption: Joanne Stremsterfer, Travels, 2017. Mixed-media print. Courtesy the artist.)
+(image: 02_guild.jpg caption: Jerry Cox, Moon Plate II, 2016. Wood. Courtesy the artist.)
+(image: 03_guild.jpg caption: Suzy Farren, Untitled, 2016. Mixed-media. Courtesy the artist.)
+(image: 04_guild.jpg caption: Ken Clay, Shoe Box #1, 2016. Oil on canvas. Courtesy the artist.)
+(image: 05_guild.jpg caption: Carrie Keasler, Film Noir, 2018. Relief print. Courtesy the artist.)
+
+
+++++
+
+The St. Louis Artists' Guild is located in the iconic, mid-century modern Famous-Barr department store. We provide opportunities for juried, solo, and small group exhibitions that are always free and open to the public. Classes are offered to students of all ages and abilities. Members, students and instructors have opportunities to use the classroom during Open Studio hours. Instructors and artists who use the facilities are represented in the Open Studio Tour.
+
+(…columns)
+
+----
+
+Tags: Sunday,Drawing,Painting,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

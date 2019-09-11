@@ -1,0 +1,54 @@
+Title: Carlynn Forst and Brian Gunderson
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_forst.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 4423 Ellenwood Ave	
+**Media:** Installation, Performance, Sculpture
+**Studio Features:** Child-Friendly, Outdoors, Refreshments, Work For Sale
+
+(link: http://www.carlynnforst.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/CarlynnForst text: Instagram class: button button-blue-outline)
+
+
+(image: 01_forst.jpg caption: Carlynn Forst, Inception, 2018. Wool and polyurethane. Courtesy the artist. Photo: Virginia Harold.)
+(image: 02_forst.jpg caption: Carlynn Forst, Traces, 2015. Silk, cyanotype chemicals, and copper pipe. Courtesy the artist.)
+(image: 03_forst.jpg caption: Carlynn Forst, Chandelier, 2018. Fabric, cellophane tape, and LED lights. Courtesy the artist.)
+(image: 04_forst.jpg caption: Carlynn Forst, Round One, 2014. Video still. Courtesy the artist.)
+(image: 05_forst.jpg caption: Carlynn Forst, Bound, 2014. Rope, tape, and polyurethane. Courtesy the artist.)
+
+
+++++
+
+I am an interdisciplinary conceptual artist whose work compares the temporary and finite within the human experience. My approach utilizes sculptures, installations, videos and performances to depict the human form as it experiences cyclical events, transitions between spaces and the restraints of physical boundaries. References to natural phenomena and the sacred are common in my work while a sense of ambiguity reflects the enigma of spiritual experience.<br>
+Brian Gunderson is a musician who writes about being broken but living on. He draws from the voices of those who are survivors of disasters, natural and otherwise, who are open to new growth. Pairing these voices with understated music or elegant illustrations, his writings also focus on becoming observant and questioning life in a way that results in a cosmic kind of compassion.
+
+(…columns)
+
+----
+
+Tags: Sunday,Installation,Performance,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

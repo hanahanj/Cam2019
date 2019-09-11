@@ -1,0 +1,54 @@
+Title: Kelly Miller
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_miller.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Craft Alliance Center of Art + Design - Delmar, 6640 Delmar Blvd, St. Louis, MO 63130
+**Media:** Jewelry, Mixed Media, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Hablamos Español, Restroom, Work For Sale
+
+(link: http://www.artistkellymiller.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/artistkellymiller text: Instagram class: button button-blue-outline)
+
+
+(image: 01_miller.jpg caption: Kelly Miller, Corn: Fuel for Life, 2013. Jewelry-copper, faux bone, enamel, copper, powder coat, pearl and leather. Courtesy the artist. Photo: Don Casper.)
+(image: 02_miller.jpg caption: Kelly Miller, Lime-Lime Back. 2013. Brooch, jewelry-copper and enamel. Courtesy the artistt. Photo: Don Casper.)
+(image: 03_miller.jpg caption: Kelly Miller, Lime-Lime Front. 2013. Brooch, jewelry-copper and enamel. Courtesy the artist. Photo: Don Casper.)
+(image: 04_miller.jpg caption: Kelly Miller, Broccoli Is A Girl's Best Friend, 2013. Copper, faux bone, enamel and powder coat. Courtesy the artist. Photo: Annie Pennington.)
+(image: 05_miller.jpg caption: Kelly Miller, What A Turkey, 2013. Copper, faux bone, enamel and powder coat. Courtesy the artist. Photo: Annie Pennington.)
+
+
+++++
+
+Food is an everyday object that people often neglect, nevertheless it is a necessity for survival. I am fascinated by the way it grows in my garden, and how its place in popular culture has evolved in society. <br>
+I make food to wear on the body, drawing awareness to this extraordinary item through body placement, color and use of industrial materials.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Jewelry,Mixed_Media,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

@@ -1,0 +1,53 @@
+Title: FletcherWorks
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_fletcher.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Craft Alliance Center of Art + Design - Delmar, 6640 Delmar Blvd, St. Louis, MO
+**Media:** Jewelry
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Work For Sale
+
+(link: http://www.fletcherworksjewelry.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/fletcherworks text: Instagram class: button button-blue-outline)
+
+
+(image: 01_fletcher.jpg caption: Lauren Nall, Radial Leaf Necklace, 2017. Sterling silver. Courtesy the artist and FletcherWorks.)
+(image: 02_fletcher.jpg caption: Lauren Nall, Fold Formed Cuffs, 2016. Sterling silver, Courtesy the artist and FletcherWorks.)
+(image: 03_fletcher.jpg caption: Lauren Nall, Silver Bloom Labradorite Pendant. Sterling silver and labradorite. Courtesy the artist and FletcherWorks.)
+(image: 04_fletcher.jpg caption: Lauren Nall, Labradorite Bloom Cuff, 2017. Sterling silver. Courtesy the artist and FletcherWorks.)
+(image: 05_fletcher.jpg caption: Lauren Nall, Pleated silver earrings, 2016. Sterling silver. Courtesy the artist and FletcherWorks.)
+
+
+++++
+
+Transforming flat sheets of metal into dimensional forms incorporated with folds, surface texture, and pattern is a technical challenge I'm continually exploring. Inspiration works interchangeably with the traditional metalsmithing tools I use and range of applications they have to offer. The aesthetic components that result from merging traditional ornamentation with modern elements of pattern and surfaces treatments give my jewelry art distinctive character. Aged and conventional in appearance with features that simultaneously reflect a modern / industrial twist.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Jewelry
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

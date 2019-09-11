@@ -1,0 +1,53 @@
+Title: Alli Litwicki
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_litwicki.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Intersect Arts Center, 3636 Texas Ave, St. Louis, MO 63118
+**Media:** Drawing, Mixed Media, Painting
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom
+
+(link: http://www.allilitwicki.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/allilitwicki text: Instagram class: button button-blue-outline)
+
+
+(image: 01_litwicki.jpg caption: Alli Litwicki, Untitled, 2018. Graphite and ink on found cardboard. Courtesy the artist.)
+(image: 02_litwicki.jpg caption: Alli Litwicki, Untitled Space 1, 2017. Graphite, ink and acrylic on found cardboard. Courtesy the artist.)
+(image: 03_litwicki.jpg caption: Alli Litwicki, Untitled Space 2, 2017. Graphite, ink and acrylic on found cardboard. Courtesy the artist.)
+(image: 04_litwicki.jpg caption: Alli Litwicki, Sketch 1, 2017. Graphite, ink and acrylic on found cardboard. Courtesy the artist.)
+(image: 05_litwicki.jpg caption: Alli Litwicki, Sketch 2, 2017. Graphite, ink and acrylic on found cardboard. Courtesy the artist.)
+
+
+++++
+
+My studio practice centers around drawing and painting on re-purposed substrates, pulling repeatedly from a small set of abstract forms in order to build fictional environments and narratives. I'm interested in treating found surfaces in the same way that I would treat a physical space when installing a site specific sculpture, which requires me to grapple with existing imperfections and limitations and a history that informs the work.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Drawing,Painting,Mixed_Media
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

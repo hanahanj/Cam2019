@@ -1,0 +1,49 @@
+Title: Paul Kafalenos
+
+----
+
+Subtitle: Silver Wing Studio
+
+----
+
+Thumbimage: 01kafalenos.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** City Museum, 701 N 15th St, 401E, St. Louis, MO 63103
+**Media:** Architecture / Urban Design, Digital Media, Sculpture
+**Studio Features:** Child-Friendly
+
+(link: http://www.silverwingstudio.com text: Website class: button button-blue-outline)
+
+
+(image: 01kafalenos.jpg caption: Paul Kafalenos, Untitled, 2015. Mixed media. Courtesy the artist.)
+(image: 02kafalenos.jpg caption: Paul Kafalenos, Untitled, 2015. Mixed media. Courtesy the artist.)
+
+
+++++
+
+I make architectural models and Silver Wing Studio is primarily a studio where I make physical models for architects. I also make sculptures that are influenced in part by the work of Donald Judd and Sol Lewitt.
+
+(…columns)
+
+----
+
+Tags: Saturday,Architecture,Urban_Design,Digital_Media,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

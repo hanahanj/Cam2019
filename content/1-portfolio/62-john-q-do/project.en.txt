@@ -1,0 +1,53 @@
+Title: John Q. Do
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_do.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Erica Popp Studios + Gallery, 3271 Roger Pl, St. Louis, MO 63116
+**Media:** Graphic Design / Illustration
+**Studio Features:** Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.ericapopp.com/gallery text: Website class: button button-blue-outline)
+(link: https://instagram.com/johnqdo text: Instagram class: button button-blue-outline)
+
+
+(image: 01_do.jpg caption: John Do, Heritage Properties Business Cards, 2016. Digital illustration. Courtesy the artist and Heritage Properties.)
+(image: 02_do.jpg caption: John Do, Pearl Vodka Digital Sales Kit, 2015. Digital illustration. Courtesy the artist and Rodgers Townsend.)
+(image: 03_do.jpg caption: John Do, Contentful eBook, 2018. Digital layout. Courtesy the artist and FINAO Agency.)
+(image: 04_do.jpg caption: John Do, The Hartford Group: Cybersecurity Infographic, 2015. Digital illustration. Courtesy the artist and Rodgers Townsend.)
+(image: 05_do.jpg caption: John Do, AT&T Direct Mail, 2015. Watercolor and digital layout. Courtesy the artist and Rodgers Townsend.)
+
+
+++++
+
+Being a freelance and agency designer for over 9 years, I have had the opportunity to work with other great creative minds and some amazing clients. Whether it's a large corporation or a hungry startup, my passion is solving problems through focused design thinking that translates into compelling design solutions.
+
+(…columns)
+
+----
+
+Tags: Sunday,Graphic_Design,Illustration
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

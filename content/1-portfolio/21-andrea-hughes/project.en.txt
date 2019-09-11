@@ -1,0 +1,53 @@
+Title: Andrea Hughes
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_hughes.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 2701 N 14th St, St. Louis, MO 63107
+**Media:** Painting, Performance, Social Practice
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Work For Sale
+
+(link: http://andrealynnhughes1.wixsite.com/kahrizmasart text: Website class: button button-blue-outline)
+(link: https://instagram.com/andrearealartjunkie text: Instagram class: button button-blue-outline)
+
+
+(image: 01_hughes.jpg caption: Andrea Hughes, FlowerGirl, 2018. Mixed Media. Courtesy KahrizmasArt.)
+(image: 02_hughes.jpg caption: Andrea Hughes, US, 2018. Acrylic on canvas. Courtesy KahrizmasArt.)
+(image: 03_hughes.jpg caption: Andrea Hughes, Selfie in Pieces, 2016. Magazine paper collage on board. Courtesy KahrizmasArt.)
+(image: 04_hughes.jpg caption: Andrea Hughes, First Class, 2017. Magazine paper collage on board. Courtesy the Cahill Collection.)
+(image: 05_hughes.jpg caption: Andrea Hughes, Simone, 2017. Oil dry-brush on watercolor paper. Courtesy Zuka Arts Guild.)
+
+
+++++
+
+My name, Andrea "Kahrizma" Hughes. I live and create artwork in Old North St. Louis. The artist statement that I present is, "Born an artist, draw upon life!" The process of creating art is just as important, if not more important, than the end result of a finished product. As a self-taught artist, most of my skills were obtained through trial and error, multiple visits to museums and library books. Artistic influence on my work is by cultural travels to places like India and teachings from artist Kenneth Calvert who is the founder of the Zuka Arts Guild, of which I am currently President.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Painting,Performance,Social_Practice
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

@@ -1,0 +1,53 @@
+Title: Harley Lafarrah Eaves
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_eaves.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** The Lewis Center, 721 Kingsland Ave, St. Louis, MO 63130
+**Media:** Drawing, Fiber, Painting
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://harleylafarraheaves.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/harleylafarraheaves text: Instagram class: button button-blue-outline)
+
+
+(image: 01_eaves.jpg caption: Harley Eaves, Optimistic Voices, 2018. Acrylic and gouache on canvas. Courtesy the artist.)
+(image: 02_eaves.jpg caption: Harley Eaves, Paint Me Like One Of Your French Ghosts; Self Portrait As A French Ghost, 2018. Acrylic and gouache on canvas. Courtesy the artist.)
+(image: 03_eaves.jpg caption: Harley Eaves, Hauntology and The Wizard Of Oz, 2018. Acrylic and gouache. Courtesy the artist.)
+(image: 04_eaves.jpg caption: Harley Eaves, Camping With Cats, 2018. Graphite on paper, pinned to fabric. Courtesy the artist.)
+(image: 05_eaves.jpg caption: Harley Eaves, Come Back To San Francisco, 2018. Acrylic and gouache on canvas. Courtesy the artist.)
+
+
+++++
+
+My work lies in the same bedroom as the psychedelic and camp aesthetic that promotes confusion while postulating equality. Along with it lie drug folklore, love, occult conspiracies, and cultural phenomena. It is as if the work were Fox Mulder, from the popular FOX network show The X-Files, as an angst-ridden teenager sitting in a bedroom filled with bong smoke, Christmas lights, psychedelic posters, succulent plants, with odd ceramic sculptures littering the window sill, who is trying to impress his partner Dana Scully by playing Pink Floyd's Dark Side of the Moon while the M.G.M. production of The Wizard of Oz plays in the background.
+
+(…columns)
+
+----
+
+Tags: Sunday,Drawing,Fiber,Painting,ADA_Accessible
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

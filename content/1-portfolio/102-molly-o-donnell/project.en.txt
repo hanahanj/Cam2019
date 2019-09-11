@@ -1,0 +1,54 @@
+Title: Molly O'Donnell
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_odonnell.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 7026 Dartmouth Ave, 1st Fl, St. Louis, MO 63130
+**Media:** Photography, Sculpture, Time-based Media
+**Studio Features:** Child-Friendly, Outdoors, Restroom, Refreshments, Work For Sale
+
+(link: http://www.mollyodonnell.me text: Website class: button button-blue-outline)
+(link: https://instagram.com/molly_odolly text: Instagram class: button button-blue-outline)
+
+
+(image: 01_odonnell.jpg caption: Molly O'Donnell, Sexting, 2017. Inkjet print. Courtesy the artist. )
+(image: 02_odonnell.jpg caption: Molly O'Donnell, Default, 2017. Inkjet print. Courtesy the artist. )
+(image: 03_odonnell.jpg caption: Molly O'Donnell, Nosebleed Still, 2018. Video. Courtesy the artist. )
+(image: 04_odonnell.jpg caption: Molly O'Donnell, Spit Still, 2018. Video. Courtesy the artist. )
+(image: 05_odonnell.jpg caption: Molly O'Donnell, Treatment Still, 2018. Video. Courtesy the artist. )
+
+
+++++
+
+Inspired by the popular attitudes of internet culture, I explore the uncanny yet sensual intimacy that constitutes itself between our online performance and our physical body. Our interactions with our smartphones have begun to question the politics of image, objectification, and our representation on the internet. <br> 
+We touch, scroll, swipe our screens, the same way we would to a lover, as we touch, suck, and exchange saliva as willingly as we exchange our vulnerability on the web. What are the roles in both worlds and what is at stake? My work hopes to make known the complicated relationship we have with the internet and how these pressing issues of sexuality, gender, and identity are being redefined and reborn through the allusion of the screen.
+
+(…columns)
+
+----
+
+Tags: Sunday,Photography,Sculpture,Time-based_Media
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

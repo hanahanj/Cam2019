@@ -1,0 +1,52 @@
+Title: University of Missouri - St. Louis
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_behle.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Arts Administration Building, 1 University Blvd, St. Louis, MO 63121
+**Media:** Drawing, Painting, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments
+
+(link: https://art.umsl.edu text: Website class: button button-blue-outline)
+
+
+(image: 01_behle.jpg caption: Mike Behle, flamingo gardens_study, 2017. Oil on paper. Courtesy the artist.)
+(image: 02_behle.jpg caption: Mike Behle, holiday tree_study, 2018. Oil on paper. Courtesy the artist.)
+(image: 03_behle.jpg caption: Mike Behle, horse_green, 2018. Oil on canvas. Courtesy the artist.)
+(image: 04_behle.jpg caption: Mike Behle, L's tree_study, 2018. Oil on paper. Courtesy the artist.)
+(image: 05_behle.jpg caption: Mike Behle, ornament_tree_study, 2018. Assemblage. Courtesy the artist.)
+
+
+++++
+
+Open studios of faculty and students in the Department of Art and Design, UMSL.
+
+(…columns)
+
+----
+
+Tags: Sunday,Drawing,Painting,Sculpture,ADA_Accessible
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

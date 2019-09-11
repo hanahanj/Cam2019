@@ -1,0 +1,53 @@
+Title: Genevieve Esson
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_esson.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** The Focal Point, 2720 Sutton Blvd, Maplewood, MO 63143
+**Media:** Graphic Design / Illustration, Mixed Media, Painting
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.genevieveessonart.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/genevieveesson text: Instagram class: button button-blue-outline)
+
+
+(image: 01_esson.jpg caption: Genevieve Esson, Bird Floral Abstract, 2017. Acrylic on gallery wrapped canvas. Courtesy the artist. )
+(image: 02_esson.jpg caption: Genevieve Esson, Lady & The Unicorn - Sound, 2016. Acrylic on gallery wrapped canvas. Courtesy the artist. )
+(image: 03_esson.jpg caption: Genevieve Esson, Frida Kahlo With Ravens, 2018. Acrylic on gallery wrapped canvas. Courtesy the artist. )
+(image: 04_esson.jpg caption: Genevieve Esson, Queen Bee Of The Sea, 2017. Acrylic on illustration board. Courtesy the artist.)
+(image: 05_esson.jpg caption: Genevieve Esson, Yellow Iris Abstract, 2018. Acrylic on gallery wrapped stretch canvas. Courtesy the artist. )
+
+
+++++
+
+My artwork is an extension of my inner thought processes and perceptions of the world around me. I have a very strong desire to convey the beauty and spirituality of the natural world, painting mainly in acrylics and adding some mixed media to the work. Using color and energetic line movement I paint with passion. I want to keep exploring and growing with art, making the world a better place. My inspirations are varied: nature, animals, music, cocktail art, beauty, color, trees, dreams, spirituality and art history. Having to feel connected and passionate when creating, I gather ideas for new artworks going about my daily life. Sketching it out, recycling ideas from past artworks, it becomes another project, opening the door for new creativity.
+
+(…columns)
+
+----
+
+Tags: Sunday,Graphic_Design,Illustration,Mixed_Media,Painting,ADA_Accessible
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

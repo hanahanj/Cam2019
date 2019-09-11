@@ -1,0 +1,52 @@
+Title: Kathy Gomric
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_gomric.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Soulard Art Gallery, 2028 S 12th St, St. Louis, MO 63104
+**Media:** Drawing
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://soulardartgallery.wixsite.com/home text: Website class: button button-blue-outline)
+
+
+(image: 01_gomric.jpg caption: Kathy Gomric, African Elephants, 2018. Pencil drawing. Courtesy the artist and Soulard Art Gallery.)
+(image: 02_gomric.jpg caption: Kathy Gomric, Hangin' Out in Africa, 2018. Pencil drawing. Courtesy the artist and Soulard Art Gallery.)
+(image: 03_gomric.jpg caption: Kathy Gomric, Night of the Wolf Moon, 2017. Pencil drawing. Courtesy the artist and Soulard Art Gallery.)
+(image: 04_gomric.jpg caption: Kathy Gomric, Confused, 2016. Pencil drawing. Courtesy the artist and Soulard Art Gallery.)
+(image: 05_gomric.jpg caption: Kathy Gomric, Serenity Palm, 2017. Pencil drawing. Courtesy the artist and Soulard Art Gallery.)
+
+
+++++
+
+I am Kathy Gomric, one of three original founding artists still with the gallery. Surrealistic Fantasy in pencil is my passion! My work is done on BFK Rives and I love the impact the black, white and shades of gray make a bold statement on the surface. I have been drawing all my life. I also do commissions.
+
+(…columns)
+
+----
+
+Tags: Saturday,Drawing,ADA_Accessible
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

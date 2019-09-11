@@ -1,0 +1,53 @@
+Title: Paul Artspace
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_paulartspace.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 14516 Sinks Rd, Florissant, MO 63034
+**Media:** Installation, Mixed Media
+**Studio Features:** ADA Accessible, Child-Friendly, Outdoors, Restroom, Refreshments, Work For Sale
+
+(link: http://www.paulartspace.org text: Website class: button button-blue-outline)
+(link: https://instagram.com/paul_artspace text: Instagram class: button button-blue-outline)
+
+
+(image: 01_paulartspace.jpg caption: Erin Rachel Hudak, You Are My Reflection, 2014. Installation view. Courtesy the artist and Paul Artspace.)
+(image: 02_paulartspace.jpg caption: Paul Artspace walnut ink drawing in the printmaking studio, 2018. Courtesy Paul Artspace.)
+(image: 03_paulartspace.jpg caption: Sarah Harford in the studio at Paul Artspace, 2018. Courtesy Paul Artspace.)
+(image: 04_paulartspace.jpg caption: Outdoor reading at Paul Artspace, 2017. Courtesy Paul Artspace.)
+(image: 05_paulartspace.jpg caption: Workshop at Paul Artspace, 2017. Courtesy Paul Artspace.)
+
+
+++++
+
+Paul Artspace serves as a platform for creative exchange and impact. It is located on a beautiful and serene six acres in north St. Louis County. Since opening in July 2013, Paul Artspace has hosted more than 70 local, national, and international artists, writers, and curators in various stages of their careers. Selected applicants are provided housing and studio space for a period of 1 to 3 months. Residents enjoy a private room, private studio space, communal kitchen and bath, and access to the tool room, wood shop, library, and etching press. The facilities at Paul Artspace permit for up to 3 individuals to work and live on the property, and this scheduling occurs on a rolling basis.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Installation,Mixed_Media
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

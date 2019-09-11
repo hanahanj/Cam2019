@@ -1,0 +1,53 @@
+Title: Howard Krohn
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_krohn.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 7331 Zephyr Pl, 2E, Maplewood, MO 63143
+**Media:** Painting
+**Studio Features:** Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: https://instagram.com/howardkrohn text: Instagram class: button button-blue-outline)
+
+
+(image: 01_krohn.jpg caption: Howard Krohn, Untitled, 2018. Oil on panel. Courtesy the artist.)
+(image: 02_krohn.jpg caption: Howard Krohn, Untitled, 2018. Oil on panel. Courtesy the artist.)
+(image: 03_krohn.jpg caption: Howard Krohn, Untitled, 2018. Oil on panel. Courtesy the artist.)
+(image: 04_krohn.jpg caption: Howard Krohn, Untitled, 2017. Oil on panel. Courtesy the artist.)
+(image: 05_krohn.jpg caption: Howard Krohn, Untitled, 2018. Oil on panel. Courtesy the artist.)
+
+
+++++
+
+I create process-driven abstractions in oil. Inventiveness is the cornerstone of my practice, whereby every painting begins with a new method. The painting process is a balancing act between opposing states: fast and slow, beautiful and ugly, detailed and sweeping, considered and impulsive. I am especially invested in creating complex morphologies derived through improvisational strategies.<br>
+I received my BA in Art from Grinnell College and my MFA in Visual Arts from Washington University in St. Louis. I currently live and work in St. Louis, MO.
+
+(…columns)
+
+----
+
+Tags: Sunday,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

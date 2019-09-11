@@ -1,0 +1,32 @@
+Article: 
+
+----
+
+Title: Sponsors
+
+----
+
+Date: 2018-07-23
+
+----
+
+Author: hanahan2
+
+----
+
+Tags: 
+
+----
+
+Text: 
+
+(image: samfox.png)
+(image: npr.jpg)
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #777777

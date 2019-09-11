@@ -1,0 +1,51 @@
+Title: Damien Johnson
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_johnson.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 4017 Pennsylvania Ave, St. Louis, MO 63118
+**Media:** Drawing, Mixed Media, Painting
+**Studio Features:** Outdoors
+
+
+
+(image: 01_johnson.jpg caption: Damien Johnson, Blue, 2017. Acrylic. Courtesy the artist.)
+(image: 02_johnson.jpg caption: Damien Johnson, Who is She, 2016. Acrylic. Courtesy the artist.)
+(image: 03_johnson.jpg caption: Damien Johnson, Hmm, 2016. Acrylic. Courtesy the artist.)
+(image: 04_johnson.jpg caption: Damien Johnson, Hmm, 2016. Acrylic. Courtesy the artist.)
+(image: 05_johnson.jpg caption: Damien Johnson, Blue, 2017. Acrylic. Courtesy the artist.)
+
+
+++++
+
+People will view paintings on boardups. I, the artist, have been gardening at this place for 4 years. I earned my minor in art with a major in Criminal Justice from UMSL. I took art classes at Forest Park Community College. I try to play my part to improve the community.
+
+(…columns)
+
+----
+
+Tags: Saturday,Drawing,Mixed_Media,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

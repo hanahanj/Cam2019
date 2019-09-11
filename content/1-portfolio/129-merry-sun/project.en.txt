@@ -1,0 +1,53 @@
+Title: Merry Sun
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_sun.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Sam Fox School of Design & Visual Arts, Walker Hall, 1 Brookings Dr, St. Louis, MO 63130
+**Media:** Photography, Sculpture, Time-based Media
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Work For Sale
+
+(link: http://merrysun.art text: Website class: button button-blue-outline)
+(link: https://instagram.com/mrrps text: Instagram class: button button-blue-outline)
+
+
+(image: 01_sun.jpg caption: Merry Sun, Still life, 2018. Gelatin silver print. Courtesy the artist.)
+(image: 02_sun.jpg caption: Merry Sun, Still life, 2018. Gelatin silver print. Courtesy the artist.)
+(image: 03_sun.jpg caption: Merry Sun, Still life, 2018. Gelatin silver print. Courtesy the artist.)
+(image: 04_sun.jpg caption: Merry Sun, Awnings do not say much unless provoked, installation view, 2018. Aluminum, contact microphones, speakers. Courtesy the artist.)
+(image: 05_sun.jpg caption: Merry Sun, Table talk, 2017. Charcoal drawing on mulberry paper, Kodak prints, wood. Courtesy the artist.)
+
+
+++++
+
+I am currently a bit over three years deep in my pursuit of a BFA in studio art with a second major in philosophy. My practice is heavily driven by investigations of the self, the banality of existence, and the shared experiences of time; these explorations are often contained in the vessels of sculpture, photography, and time-based media. Often times, my work juxtaposes the common and expected with the unfamiliar and jarring, to serve as a method of re-contextualization. The evocation of the mundane acts to create a relationship of familiarity and comfort with the viewer, which then susceptible to being broken and reformed. An uncanny peculiarity may choose to present itself here, for this curated environment is simultaneously both so closely associated with the ordinary while simultaneously embodying a certain "off-ness".
+
+(…columns)
+
+----
+
+Tags: Sunday,Photography,Sculpture,Time-based_Media
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

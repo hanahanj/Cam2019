@@ -1,0 +1,52 @@
+Title: Rich Brooks
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 02_brooks.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Soulard Art Gallery, 2028 S 12th St, St. Louis, MO 63104
+**Media:** Painting, Photography, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://soulardartgallery.wixsite.com/home text: Website class: button button-blue-outline)
+
+
+(image: 01_Brooks.jpg caption: Rich Brooks, Trail of Teats, 2017. Acrylic. Courtesy the artist.)
+(image: 02_Brooks.jpg caption: Rich Brooks, Faded Glory, 2017. Canvas assemblage and acrylic. Courtesy the artist.)
+(image: 03_Brooks.jpg caption: Rich Brooks, Flight of the Blackbird, 2017. Acrylic. Courtesy the artist.)
+(image: 04_Brooks.jpg caption: Rich Brooks, Cheetah Four Panel, 2017. Acrylic. Courtesy the artist.)
+(image: 05_Brooks.jpg caption: Rich Brooks, Zebra, Color My World Different, 2017. Acrylic. Courtesy the artist.)
+
+
+++++
+
+I have been an artist for over 6 decades, actually since I was 4 years old. It is part of the fabric of my life. I do something involving art everyday. I am always excited to see my works in people's homes. Sharing my art is exciting and fulfilling.
+
+(…columns)
+
+----
+
+Tags: Saturday,Painting,Photography,Digital_Media,ADA_Accessible
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

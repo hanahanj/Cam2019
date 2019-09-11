@@ -1,0 +1,53 @@
+Title: Perennial - Creative Reuse Studio
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_perennial.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 3762 S Broadway, St. Louis, MO 63118
+**Media:** Fiber, Mixed Media, Social Practice
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Work For Sale
+
+(link: http://www.perennialstl.org/ text: Website class: button button-blue-outline)
+(link: https://instagram.com/perennialstl text: Instagram class: button button-blue-outline)
+
+
+(image: 01_perennial.jpg caption: Perennial, Woodshop, 2017.)
+(image: 02_perennial.jpg caption: Perennial, Sewing Studio, 2017.)
+(image: 03_perennial.jpg caption: Perennial, Reuse Studio, 2017.)
+(image: 04_perennial.jpg caption: Perennial, Osage Orange Dye DIY Kit, 2017.)
+(image: 05_perennial.jpg caption: Perennial, Handmade Crochet Hooks, 2017.)
+
+
+++++
+
+A 501(c)3 social enterprise, Perennial is a community workshop and store in St. Louis, MO that offers educational programming in creative reuse to diverse populations and sells handmade DIY kits and tools for reuse projects. We turn trash into amazing items and teach the community to do the same!
+
+(…columns)
+
+----
+
+Tags: Saturday,Fiber,Mixed_Media,Social_Practice
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

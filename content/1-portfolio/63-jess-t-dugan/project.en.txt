@@ -1,0 +1,54 @@
+Title: Jess T. Dugan
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_dugan.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** projects+gallery, 4733 McPherson Ave, St. Louis, MO 63108
+**Media:** Photography, Social Practice
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.jessdugan.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/jesstdugan text: Instagram class: button button-blue-outline)
+
+
+(image: 01_dugan.jpg caption: Jess T. Dugan, Dee Dee Ngozi, 55, Atlanta, GA, 2016. Digital photography. Courtesy the artist and Catherine Edelman Gallery, Chicago.)
+(image: 02_dugan.jpg caption: Jess T. Dugan, Sky, 64, Palm Springs, CA, 2016. Digital photography. Courtesy the artist and Catherine Edelman Gallery, Chicago.)
+(image: 03_dugan.jpg caption: Jess T. Dugan, Justin Vivian, 54, New York, NY, 2017. Digital Photography. Courtesy the artist and Catherine Edelman Gallery. )
+(image: 04_dugan.jpg caption: Jess T. Dugan, SueZie, 51, and Cheryl, 55, Valrico, FL, 2015. Digital photography. Courtesy the artist and Catherine Edelman Gallery, Chicago)
+(image: 05_dugan.jpg caption: Jess T. Dugan, Gloria, 70, Chicago, IL, 2016. Digital photography. Courtesy the artist and the Catherine Edelman Gallery, Chicago.)
+
+
+++++
+
+Representations of older transgender people are nearly absent from our culture and those that do exist are often one-dimensional. For over five years, photographer Jess T. Dugan and social worker Vanessa Fabbre traveled throughout the United States creating ""To Survive on This Shore: Photographs and Interviews with Transgender and Gender Nonconforming Older Adults."" Seeking subjects whose lived experiences exist within the complex intersections of gender identity, age, race, ethnicity, sexuality, socioeconomic class, and geographic location, they traveled from coast to coast, to big cities and small towns, documenting the life stories of this important but largely underrepresented group of older adults. The featured individuals have a wide variety of life narratives spanning the last ninety years, offering an important historical record of transgender experience and activism in the United States.<br>
+The resulting book and exhibition provide a nuanced view into the struggles and joys of growing older as a transgender person and offer a poignant reflection on what it means to live authentically despite seemingly insurmountable odds.
+
+(…columns)
+
+----
+
+Tags: Sunday,Photography,Social_Practice
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

@@ -1,0 +1,53 @@
+Title: Carlie Trosclair
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_trosclair.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Intersect Arts Center, 3636 Texas Ave, St. Louis, MO 63118
+**Media:** Architecture / Urban Design, Installation, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.carlietrosclair.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/carlietrosclairstudio text: Instagram class: button button-blue-outline)
+
+
+(image: 01_trosclair.jpg caption: Carlie Trosclair, Phantom Rehab, 2017. Latex, site specific intervention in an abandoned home. Courtesy the artist.)
+(image: 02_trosclair.jpg caption: Carlie Trosclair, letters from a domicile, 2017. Latex. Courtesy the artist.)
+(image: 03_trosclair.jpg caption: Carlie Trosclair, Window Dressing, 2017. Latex. Courtesy the artist.)
+(image: 04_trosclair.jpg caption: Carlie Trosclair, alone together, 2017. Latex. Courtesy the artist.)
+(image: 05_trosclair.jpg caption: Carlie Trosclair, between barriers and banisters, 2018. Latex. Courtesy the artist.)
+
+
+++++
+
+Even when a house sits gutted and abandoned the presence of the body still lingers. Architectural components carry with them the layered histories of previous residents. These become the shells we leave behind. Relics of habitation and home-making. Approached through a lens of reordering and discovery, my work explores the liminal space between development and deconstruction; contemplating the living and transitional components of home. Castings of banisters and brick walls exist as intimate signatures of the past and semblances of the future. These disassociated architectural fragments illustrate a preservation of sorts, embedded with the shared histories of multiple lives lived.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Architecture,Urban_Design,Installation,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

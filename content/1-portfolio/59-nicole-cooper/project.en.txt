@@ -1,0 +1,56 @@
+Title: Nicole Cooper
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_cooper.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 2175 S Big Bend Blvd, St. Louis, MO 63117
+**Media:** Painting
+**Studio Features:** Restroom, Refreshments, Work For Sale
+
+(link: http://www.nicolecooperartist.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/nicolecooperartist text: Instagram class: button button-blue-outline)
+
+
+(image: 01_cooper.jpg caption: Nicole Cooper, Cell Division 03 [Chiasma] [diptych], 2018. Oil on canvas. Courtesy the artist.)
+(image: 02_cooper.jpg caption: Nicole Cooper, Interwoven 02, 2017. Oil on canvas. Courtesy the artist.)
+(image: 03_cooper.jpg caption: Nicole Cooper, Shapeshifter, 2016. Oil on canvas. Courtesy the artist.)
+(image: 04_cooper.jpg caption: Nicole Cooper, Fulcrum, 2015. Oil on linen. Courtesy the artist.)
+(image: 05_cooper.jpg caption: Nicole Cooper, Cell Division [diptych], 2014. Oil on canvas. Courtesy the artist.)
+
+
+++++
+
+My life-sized figurative paintings are comprised of energetic brushwork, vivid colors, and unfurling layers of painted flesh. They represent the dynamic aspect of humanity as a continuously evolving force. Motion, rhythm, the cycle of repair and regeneration are a microcosm of this continuous process that identifies the spark of life—for systems are to the body as individuals are to humanity.<br>
+To represent this regenerative cycle, I envision the core of the body as an active, blooming force. Hot colors dominate the surface as fleshy forms grow up and out from within, pushing the boundaries of internal and external. Thick and thin brushwork builds up the figure the same way the bones, muscles and flesh form the human body. I emphasize the structure of the pelvis as the cradle of regeneration.<br> 
+In works with more than one figure, multiple canvases enable connections despite the physical boundaries of each rectangle. Figures morph into one another and share systems. Veins weave around and through the fleshy forms, representing connections of kinship through blood.<br> 
+The figures are painted life-sized to allow the viewer to relate his or her own body to this continuously evolving life force that universally connects human beings.
+
+(…columns)
+
+----
+
+Tags: Sunday,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

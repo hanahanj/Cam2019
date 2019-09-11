@@ -1,0 +1,53 @@
+Title: Rachel Youn
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_youn.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** The Bermuda Project, 830 S Florissant Rd, Ferguson, MO 63135
+**Media:** Installation, Sculpture, Time-based Media
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments
+
+(link: http://www.rachelyoun.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/rachelyoun text: Instagram class: button button-blue-outline)
+
+
+(image: 01_youn.jpg caption: Rachel Youn, Untitled, 2017. Silicone, polyester fiber, and extruded polystyrene. Courtesy the artist.)
+(image: 02_youn.jpg caption: Rachel Youn, The Second Friend of Winter, 2018. Bamboo, shiatsu foot massager, enamel, epoxy clay, plastic sushi grass, digital print on paper. Courtesy the artist.)
+(image: 03_youn.jpg caption: Rachel Youn, NATURASCAPE: Self-Care Simulation, 2018. Extruded polystyrene, polyurethane foam, gypsum, latex paint, bamboo-print EVA foam, light therapy lamp, aromatherapy diffuser, FIJI® water, jasmine essential oil, plastic sushi grass, silicone, generic Oriental-style fabric from Jo-Ann Fabrics, brass, audio [3:30 mins]. Courtesy the artist.)
+(image: 04_youn.jpg caption: Rachel Youn, The view from ______, 2018. Silicone, digital print on mesh and steel. Courtesy the artist.)
+(image: 05_youn.jpg caption: Rachel Youn, For guests only, 2017. OSB, digital print on polypropylene and towel rack. Courtesy the artist.)
+
+
+++++
+
+My work collapses notions of authenticity and artifice. I utilize soft sculpture, faux materials and glossy veneers to poke fun at the superficiality of hierarchal narratives embedded in objects and lifestyle. Sourcing from discount home furnishing stores and oriental goods peddled on craigslist, my work identifies with surface-level replicas and cheap alternatives found amidst suburban detritus that sincerely attempt to simulate status and class. It is a meditation on the flux between cultures and genders, driven by my desires and failures to feel genuine.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Installation,Sculpture,Time-based_Media
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

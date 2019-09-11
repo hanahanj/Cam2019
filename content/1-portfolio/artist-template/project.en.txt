@@ -1,0 +1,52 @@
+Title: Artist Template
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Date Open
+**Address:** Address
+**Media:** Media
+**Studio Features:** Features
+
+(link: # text: Website class: button button-blue-outline)
+(link: # text: Instagram class: button button-blue-outline)
+
+
+(image: image.jpg caption: First and Last Name, Title, Year. Medium. Courtesy line.)
+(image: image.jpg caption: First and Last Name, Title, Year. Medium. Courtesy line.)
+(image: image.jpg caption: First and Last Name, Title, Year. Medium. Courtesy line.)
+(image: image.jpg caption: First and Last Name, Title, Year. Medium. Courtesy line.)
+
+
+++++
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt sapien mattis nisi condimentum elementum. Vestibulum viverra, augue vitae dignissim consequat, velit turpis fermentum velit, sed tempus diam justo vel mi. Ut vitae urna porttitor, tincidunt leo at, laoreet urna. Nunc facilisis facilisis mauris, volutpat tincidunt magna pharetra ut. Integer nec dui ut neque viverra maximus. Pellentesque sed facilisis lacus. Donec in orci in ex volutpat pellentesque. Praesent dapibus maximus arcu, condimentum congue lorem malesuada in. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ac justo eget diam faucibus mattis porta a ligula. Fusce vehicula varius lectus sed interdum. Aenean nec orci tempus, hendrerit leo eget, commodo mauris. Quisque id ex at enim efficitur gravida ut ac nunc. Curabitur erat dui, mattis vel turpis eu, porta pellentesque arcu.
+
+(…columns)
+
+----
+
+Tags: Tag
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #143893

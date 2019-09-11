@@ -1,0 +1,53 @@
+Title: Christina Kling-Garrett
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_klinggarrett.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Hilltop House, 7522 Big Bend Blvd, St. Louis, MO 63119
+**Media:** Photography
+**Studio Features:** Child-Friendly, Restroom, Work For Sale
+
+(link: http://www.klingsandthings.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/klingsandthings text: Instagram class: button button-blue-outline)
+
+
+(image: 01_klinggarrett.jpg caption: Christina Kling Garrett, Sunset, 2014. Photography. Courtesy the artist.)
+(image: 02_klinggarrett.jpg caption: Christina Kling Garrett, Waterbearer, 2012. Photography. Courtesy the artist.)
+(image: 03_klinggarrett.jpg caption: Christina Kling Garrett, The Old Courthouse, 2012. Photography. Courtesy the artist.)
+(image: 04_klinggarrett.jpg caption: Christina Kling Garrett, Dream Flower, 2016. Photography. Courtesy the artist.)
+(image: 05_klinggarrett.jpg caption: Christina Kling Garrett, Totality, 2017. Photography. Courtesy the artist.)
+
+
+++++
+
+I am a photographer who captures unique points of view. While I photograph everything, this exhibit will focus on the neighborhoods of St. Louis.
+
+(…columns)
+
+----
+
+Tags: Sunday,Photography
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

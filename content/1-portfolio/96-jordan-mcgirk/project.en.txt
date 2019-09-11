@@ -1,0 +1,53 @@
+Title: Jordan McGirk
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01.mcgirk.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 5909 Scanlan Ave, St. Louis, MO 63139
+**Media:** Digital Media, Installation, Painting
+**Studio Features:** Child-Friendly, Restroom, Refreshments
+
+(link: http://www.jordanmcgirk.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/jordanmcgirkart text: Instagram class: button button-blue-outline)
+
+
+(image: 01.mcgirk.jpg caption: Jordan McGirk, Lamentation for a Lover/ Love Like Death, 2018. Oil on canvas. Courtesy the artist. )
+(image: 02.mcgirk.jpg caption: Jordan McGirk, It Hurts to Be Here, 2018. Oil on canvas. Courtesy the artist. )
+(image: 03.mcgirk.jpg caption: Jordan McGirk, Warriorborn Vestige, 2018. Oil on canvas. Courtesy the artist. )
+(image: 04.mcgirk.jpg caption: Jordan McGirk, Consummate Mess/ You're Not Scene if You Mean If, 2018. Oil on canvas. Courtesy the artist. )
+(image: 05.mcgirk.jpg caption: Jordan McGirk, Slow Song Closer, 2018. Oil on canvas. Courtesy the artist. )
+
+
+++++
+
+My paintings sing Rock-and-Roll with praise and distrust—they indulge the fantasy of superstardom while subsequently warning against the dangers of privilege. In my paintings, both spectators and rock stars reimagine themselves as misanthropic antiheroes in their own narratives. But their exaltation betrays their stories as fragmented and anxious—they are star-struck, delusional, and entirely too eager to sacrifice themselves to the hyper-masculine alter. They loudly rally against the heroic power they secretly long for; they brashly protest the western mythos they inevitably embody. Hoping to feel a sense of belonging, these desperate cartoons entangle their tropes, limbs, and desires into a well-intentioned mess.
+
+(…columns)
+
+----
+
+Tags: Sunday,Digital_Media,Installation,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

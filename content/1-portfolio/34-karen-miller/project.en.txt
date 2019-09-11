@@ -1,0 +1,51 @@
+Title: Karen Miller
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_miller.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Soulard Art Gallery, 2028 S 12th St, St. Louis, MO 63104
+**Media:** Painting
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://soulardartgallery.wixsite.com/home text: Website class: button button-blue-outline)
+
+
+(image: 01_miller.jpg caption: Karen Miller, Anemone, 2016. Oil on canvas. Courtesy the artist and Soulard Art Gallery.)
+(image: 02_miller.jpg caption: Karen Miller, Let's Cook, 2017. Pastel on sanded paper. Courtesy the artist and Soulard Art Gallery.)
+(image: 03_miller.jpg caption: Karen Miller, Floating, 2017. Palette Knife and oil on canvas. Courtesy the artist and Soulard Art Gallery.)
+(image: 04_miller.jpg caption: Karen Miller, In My Dreams, 2018. Pastel on Sanded Paper. Courtesy the artist and Soulard Art Gallery.)
+
+
+++++
+
+I am one of 15 local artist at the co-op gallery - Soulard Art Gallery. My paintings are in rich colors with an atmosphere of peace, gentleness and beauty. I feel that we should be able to surround ourselves in beautiful art, in our home and office. Not just in museums and galleries. My work is primarily in pastels and oils.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

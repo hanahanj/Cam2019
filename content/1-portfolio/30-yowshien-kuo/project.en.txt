@@ -1,0 +1,53 @@
+Title: Yowshien Kuo
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_kuo.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Intersect Arts Center, 3636 Texas Ave, St. Louis, MO 63118
+**Media:** Printmaking, Painting, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: https://www.albertyowshien.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/yowshien text: Instagram class: button button-blue-outline)
+
+
+(image: 01_kuo.jpg caption: Yowshien Kuo, installation view, the Millitzer Studio & Gallery, 2018. Painting, installation, found object, and video. Courtesy the artist.)
+(image: 02_kuo.jpg caption: Yowshien Kuo, How the West Was Won, 2017. Acrylic and mixed media on canvas. Courtesy the artist)
+(image: 03_kuo.jpg caption: Yowshien Kuo, I Don't Usually Praise Guns, 2018. Acrylic and mixed media on canvas, aluminum tread-plate, and hat. Courtesy the artist.)
+(image: 04_kuo.jpg caption: Yowshien Kuo, Paul Bunyan and Several Similar Folks Until Ice Cube, 2017. Acrylic and mixed media on canvas. Courtesy the artist.)
+(image: 05_kuo.jpg caption: Yowshien Kuo, One Man's Game, America's Aviary, 2018. Acrylic and mixed media on canvas. Courtesy the artist.)
+
+
+++++
+
+I am an artist and educator based out of St. Louis, MO. My practice involves an interest in constructed histories, cultural decorum, and the overlooked representations of race and masculinity. I received my MFA from Fontbonne University (2014), and serve as an adjunct faculty member at Washington University, Fontbonne University, and St. Louis Community College. In 2015 I completed a 11-month Arts and Education Residency at the Schmidt Art Center in Belleville, IL, and served as a summer artist-in-residence at Paul Artspace in 2017. I have been exhibiting in the area including a recent solo exhibition at The Millitzer (May 2018), and most recently "Plaid Progress" a group exhibition centered on overlooked histories, curated by Lyndon Barrios Jr. for the Intersect Arts Center (Summer 2018). I will be a featured artist for LVL3 Gallery in Chicago, and currently am scheduled to be included in Granite City Art and Design District's (G-CADD) December group exhibition and a solo exhibition in September 2019 at Reese Gallery.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Printmaking,Painting,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

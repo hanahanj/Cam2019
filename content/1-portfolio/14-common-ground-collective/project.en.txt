@@ -1,0 +1,53 @@
+Title: Common Ground Collective
+
+----
+
+Subtitle: mascot agency
+
+----
+
+Thumbimage: 01_sewell.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 1900 Locust St, Suite 300-301, St. Louis, MO 63103
+**Media:** Drawing, Mixed Media, Painting
+**Studio Features:** ADA Accessible, Restroom, Refreshments, Work For Sale
+
+(link: http://www.mascotagency.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/mascotagency text: Instagram class: button button-blue-outline)
+
+
+(image: 01_sewell.jpg caption: Bipolar Holiday & Justin Tolentino, Quality Control Collective, 2018. Mixed media. Photo: Jimmy Sewell.)
+(image: 02_sewell.jpg caption: Bipolar Holiday, WIP, 2018. Mixed media. Photo: Jimmy Sewell.)
+(image: 03_sewell.jpg caption: Uncle Strawberry, Quality Control Collective, 2018. Mixed media. Photo: mascot agency.)
+(image: 04_sewell.jpg caption: Uncle Strawberry, Quality Control Collective, 2018 . Mixed media. Photo: mascot agency.)
+(image: 05_sewell.jpg caption: Uncle Strawberry, Squirt Gun, 2018. Acrylic on canvas. Photo: mascot agency.)
+
+
+++++
+
+Common Ground Collective is a group of artists with a common cause and a common goal–to create in a creative community and support each others' art and careers. Artists include @bipolar_holiday @eyez @uncle_strawberry @studiotolentino @ritehandrobot @justinkingdesigns and gallery curation and retail shop by @clr_mnstr. Powered by mascot agency (screen printing / laser cutting / retail / co working / gallery).
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Drawing,Mixed_Media,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

@@ -1,0 +1,53 @@
+Title: Sarah Harford
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_harford.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Erica Popp Studios + Gallery, 3271 Roger Pl, St. Louis, MO 63116
+**Media:** Printmaking, Painting, Sculpture
+**Studio Features:** Child-Friendly, Outdoors, Restroom, Refreshments
+
+(link: http://www.sarah-harford.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/sarah.harford text: Instagram class: button button-blue-outline)
+
+
+(image: 01_harford.jpg caption: Sarah Harford, Car Body, 2017. Sheetrock, carpaint and lacquer. Courtesy the artist.)
+(image: 02_harford.jpg caption: Sarah Harford, Slow Notion Study with 52 Red Satin Ties: Regime, 2017. Courtesy the artist.)
+(image: 03_harford.jpg caption: Sarah Harford,Swing, 2016. Broken headlight and tail light plastic. Courtesy the artist.)
+(image: 04_harford.jpg caption: Sarah Harford, Dancer's Dent, 2017. Sheetrock, carpaint and lacquer. Courtesy the artist.)
+
+
+++++
+
+My studio practice questions the concept of security by manipulating uniformity. Mass produced objects such as cars, clothes, and furniture are substitutes for the body and induce visceral reactions from irregularities. I am attracted to materials that degrade from their purpose or discarded for updated versions of themselves. These qualities become devices working inside of a new narrative that anticipates the loss of identity and self-deprivation in order to recognize what we dread. It is inside society's incongruity that we can unveil what defines us most.<br> 
+I am a sculpture installation artist and educator currently working and living in St. Louis, Missouri. My work uses imagery from gendered objects to uncover layers such as color, form, and subjugation under archetypal symbolisms embedded in our nation's norm. I currently manage the art education program and studios at Laumeier Sculpture Park in St. Louis, Missouri.
+
+(…columns)
+
+----
+
+Tags: Sunday,Installation,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

@@ -1,0 +1,51 @@
+Title: Film Base STL
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_philippone.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 2653 Locust St, St. Louis, MO 63103
+**Media:** Photography
+**Studio Features:** Child-Friendly, Restroom, Work For Sale
+
+(link: https://cargocollective.com/filmbasestl text: Website class: button button-blue-outline)
+(link: https://instagram.com/filmbasestl text: Instagram class: button button-blue-outline)
+
+
+(image: 01_philippone.jpg caption: Caroline Philippone, 2018. Gelatin silver photograph. Courtesy the artist.)
+(image: 02_merritt.jpg caption: Tim Merritt, 2018. Medium format photographic film. Courtesy the artist.)
+(image: 03_genova.jpg caption: Andrew Genova, 2018. 35mm photographic negative. Courtesy the artist.)
+
+
+++++
+
+Founded in fall of 2014, Film Base STL began in a small industrial bathroom, which was converted to a working darkroom space by Davey Rocco, Tim Merritt and Andrew Genova. In 2016 Caroline Philippone joined the collective, and half a year later the group moved to their new space in the basement of their original building. Although each are unique in their shooting style and vision, all are connected through traditional film based work, and photograph with the intent to print on gelatin silver paper.
+
+(…columns)
+
+----
+
+Tags: Saturday,Photography
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

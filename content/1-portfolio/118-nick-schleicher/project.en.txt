@@ -1,0 +1,55 @@
+Title: Nick Schleicher
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_schleicher.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 3906 Hereford St, St. Louis, MO 63109
+**Media:** Mixed Media, Painting, Sculpture
+**Studio Features:** Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.nickschleicher.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/nickschleicherart text: Instagram class: button button-blue-outline)
+
+
+(image: 01_schleicher.jpg caption: Nick Schleicher, BRR-605, 2018. Acrylic, glazing medium, and gloss gel on panel. Private collection. Courtesy the artist. )
+(image: 02_schleicher.jpg caption: Nick Schleicher, PYY-531, 2018. Acrylic, glazing medium, and gloss gel on panel. Courtesy the artist. )
+(image: 03_schleicher.jpg caption: Nick Schleicher, Redshift Blueshift, 2018. Acrylic, glazing medium, and gloss gel on panel. Courtesy the artist. )
+(image: 04_schleicher.jpg caption: Nick Schleicher, TJH-622, 2018. Acrylic, glazing medium, and gloss gel on panel. Courtesy the artist. )
+(image: 05_schleicher.jpg caption: Nick Schleicher, RBG-519, 2018. Acrylic, glazing medium, and gloss gel on panel. Courtesy the artist. )
+
+
+++++
+
+My work comes down to a formalist interest in painting and sculpture inspired by monolithic shapes and cosmology. Conceptually these works stimulate thoughts and theories of origin and significance of location. <br> 
+The wall paintings began as an abstracted reference to landscape. As I began studying Hubble documentation of the universe, my process of painting evolved to emulate the process scientists use to represent celestial bodies. This method of assigning colors to layers of composite photographs to create an almost abstracted and fantastical representation drove me to explore new ways of painting and layering color fields. Surfaces and processes of painting were deconstructed and reassembled to create worlds that walked the line of painting and sculpture. <br> 
+Imagery of megaliths slowly entered my practice and were subconsciously materialized as my painting became more formal. Specifically, through my interest in compositional shapes and their relationship to the edges of a painting's surface. As this relationship began to progress, the shape of the support would often elongate. The resulting supports bore a monolithic presence. When I noticed these compositions loosely suggesting monoliths, the next logical step was to pull that shape "off the wall" and materialize it as a free standing sculpture.
+
+(…columns)
+
+----
+
+Tags: Sunday,Mixed_Media,Painting,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

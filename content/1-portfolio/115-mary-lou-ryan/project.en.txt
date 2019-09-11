@@ -1,0 +1,52 @@
+Title: Mary Lou Ryan
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_ryan.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Craft Alliance Center of Art + Design - Delmar, 6640 Delmar Blvd, St. Louis, MO 63130
+**Media:** Jewelry
+**Studio Features:** Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.craftalliance.org	 text: Website class: button button-blue-outline)
+
+
+(image: 01_ryan.jpg caption: Mary Lou Ryan, heart beads, 2017. Glass. Courtesy the artist.)
+(image: 02_ryan.jpg caption: Mary Lou Ryan, sculptures, 2017. Glass. Courtesy the artist.)
+(image: 03_ryan.jpg caption: Mary Lou Ryan, small bead necklace, 2017. Glass. Courtesy the artist.)
+(image: 04_ryan.jpg caption: Mary Lou Ryan, small beads with sculpted owl, 2016. Glass. Courtesy the artist.)
+(image: 05_ryan.jpg caption: Mary Lou Ryan, Pressed beads with lines, 2018. Glass. Courtesy the artist.)
+
+
+++++
+
+I am a glass artist that works on a small torch and steel mandrel to create glass beads and small sculptural objects. I create jewelry from these beads.
+
+(…columns)
+
+----
+
+Tags: Sunday,Jewelry
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

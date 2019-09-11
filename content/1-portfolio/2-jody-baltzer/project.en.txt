@@ -1,0 +1,53 @@
+Title: Jody Baltzer
+
+----
+
+Subtitle: Eclectic Forms
+
+----
+
+Thumbimage: 01_baltzer.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 2609 Virginia Ave, St. Louis, MO 63118
+**Media:** Jewelry, Mixed Media, Sculpture
+**Studio Features:** Restroom, Refreshments, Work For Sale
+
+(link: https://www.eclecticforms.com text: Website class: button button-blue-outline)
+(link: https://www.instagram.com/eclectic_forms text: Instagram class: button button-blue-outline)
+
+
+(image: 01_baltzer.jpg caption: Jody Baltzer, Earth Curve, 2016. Mixed media on recycled metal. Courtesy the artist.)
+(image: 02_baltzer.jpg caption: Jody Baltzer, Earth Basket, 2001. Rocks and recycled wire. Courtesy Beth Anna McGuire.)
+(image: 03_baltzer.jpg caption: Jody Baltzer, Lava Cuff, 2018. Sterling silver, binding material, pearls, crystals, rhinestones. Courtesy the artist.)
+(image: 04_baltzer.jpg caption: Jody Baltzer, Heirloom Upcycle, 2018. Family heirloom, reset with pearls, mirror, crystals and sterling silver. Courtesy Margaret Baltzer.)
+(image: 05_baltzer.jpg caption: Jody Baltzer, Lava shell necklace, 2018. Recycled copper, binding material, pearls, crystals and sterling silver. Courtesy Beth Anna McGuire.)
+
+
+++++
+
+Eclectic Forms is the name of my studio because I work in a variety of media. I have been inspired by life in my hometown of St. Louis, the American desert Southwest, and Europe. I create jewelry, sculpture, and mixed media art. My work contains gemstones, crystals, precious metals, paper, wire, fabric, paint, acrylic, stone, asphalt, concrete, and plants. When possible, I use recycled and upcycled materials. I love to explore and express the possibilities of texture and form in eclectic ways. My art has been featured in galleries, public institutions, nationally juried exhibitions, and a museum permanent collection.
+
+(…columns)
+
+----
+
+Tags: Jewelry,Sculpture,Saturday,Mixed_Media
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

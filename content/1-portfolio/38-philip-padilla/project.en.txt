@@ -1,0 +1,53 @@
+Title: Philip Padilla
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 02_padilla.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Intersect Arts Center, 3636 Texas Ave, St. Louis, MO 63118
+**Media:** Mixed Media, Photography, Sculpture
+**Studio Features:** ADA Accessible, Restroom, Refreshments, Work For Sale
+
+(link: http://www.philipadilla.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/seen_no_evil text: Instagram class: button button-blue-outline)
+
+
+(image: 01_padilla.jpg caption: Philip Padilla, I Before Me Except After P, 2015. Chromogenic print. Courtesy the artist.)
+(image: 02_padilla.jpg caption: Philip Padilla, Never Seen Neverland, 2014. Chromogenic print. Courtesy the artist.)
+(image: 03_padilla.jpg caption: Philip Padilla, Equinox Armor, 2016. Found wood and sinew. Courtesy the artist.)
+(image: 04_padilla.jpg caption: Philip Padilla, If You Love It Let It Go, 2017. Chromogenic print. Courtesy the artist.)
+(image: 05_padilla.jpg caption: Philip Padilla, Mr. Photobooth, 2017. Chromogenic print. Courtesy the artist.)
+
+
+++++
+
+A daily self portrait project over the course of several years helped me to discover and develop my own personal self identity. This experience both behind the camera and in front of the lens gave me insight to understand, connect, and collaborate with the world around me. With the addition of sculpture and wearable art into my photographic practice, I began to explore the possibilities of an interactive image capture process. As a result, the camera has become not only a tool to create but also to engage. I hope to pursue the evolution of my self portraiture by expanding my focus from documenting an individual portrait to cultivating our experience of human-camera interaction.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Mixed_Media,Photography,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

@@ -1,0 +1,48 @@
+Title: Katie Millitzer
+
+----
+
+Subtitle: The Millitzer Studio & Gallery
+
+----
+
+Thumbimage: 01_millitzer.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** The Millitzer Studio & Gallery, 3103 Pestalozzi St, St. Louis, MO 63118
+**Media:** Ceramics, Painting, Sculpture
+**Studio Features:** Restroom, Refreshments
+
+(link: http://Millitzer.com text: Website class: button button-blue-outline)
+
+
+(image: 01_millitzer.jpg caption: The Millitzer Studio & Gallery)
+
+
+++++
+
+I've been running the Millitzer Studio and Gallery since 2013 as both a place to make my own work and to provide a space for artistic collaboration and communication in St. Louis. I've been fortunate to have had many wonderful artists in the gallery and studios over the years, and the current group of artists is particularly stellar.
+
+(…columns)
+
+----
+
+Tags: Saturday,Ceramics,Painting,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

@@ -1,0 +1,55 @@
+Title: Janie Stamm
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_stamm.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** The Lewis Center, 721 Kingsland Ave, St. Louis, MO 63130
+**Media:** Drawing, Installation, Mixed Media
+**Studio Features:** Restroom, Work For Sale
+
+(link: http://www.janiestamm.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/glitterpuppies text: Instagram class: button button-blue-outline)
+
+
+(image: 01_stamm.jpg caption: Janie Stamm, Birth, 2018. Faux velvet, yarn, seed beads, felt, embroidery floss and dowel. Courtesy the artist.)
+(image: 02_stamm.jpg caption: Janie Stamm, Consumption, 2018. Felt, seed beads, embroidery floss, paper and dowel. Courtesy the artist.)
+(image: 03_stamm.jpg caption: Janie Stamm, Oh! How Exotic!, 2018. Installation. Courtesy the artist.)
+(image: 04_stamm.jpg caption: Janie Stamm, CrocoDykes Bite Back, 2017. Found vest, ribbon, felt and glitter. Courtesy the artist.)
+(image: 05_stamm.jpg caption: Janie Stamm, Giver Her What She Wants, 2017. Installation. Courtesy the artist.)
+
+
+++++
+
+I am a proud queer Floridan, born on the island of Miami Beach and raised on the edge of the Everglades, I treasure every aspect of Florida's rich cultural and natural history. Over the next 30-40 years I will watch my home, South Florida, slowly sink back into the ocean due to global warming and rising sea levels. Activated by this grave statistic, I have begun researching, discussing, and preserving Florida's many histories in my studio practice.<br> 
+The work I make exists in the context of a cultural environmental crisis that's in conversation with queer topics and contemporary art practices. I explore the link between Florida's cultural and natural histories by examining the delicate relationship between nature and queerness, and how queerness and nature are both connected through loss of habitat and erasure from history.<br>  
+My work employs tactile, craft based techniques to document significant events in Florida's queer history such as turning Anita Bryant's orange juice-fueled attacks on queer folks in Miami-Dade county into a papier mache alligator guarding a pie full of oranges. Currently, I am working on a memorial quilt that will tell the story of the Pulse massacre in Orlando through imagery of endangered tree snails.
+
+(…columns)
+
+----
+
+Tags: Sunday,Drawing,Installation,Mixed_Media
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

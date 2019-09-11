@@ -1,0 +1,53 @@
+Title: Zuka Arts Guild
+
+----
+
+Subtitle: 14th Street Artist Community
+
+----
+
+Thumbimage: 02_zuka.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 2701 N 14th St, St. Louis, MO 63107
+**Media:** Installation, Painting, Social Practice
+**Studio Features:** ADA Accessible, Child-Friendly, Work For Sale
+
+(link: https://14thstartistcommunity.weebly.com/ text: Website class: button button-blue-outline)
+(link: https://instagram.com/zukaartguild text: Instagram class: button button-blue-outline)
+
+
+(image: 01_zuka.jpg caption: Zuka Arts Guild, Generation to Generation, 2011. Acrylic on canvas. Courtesy the 14th Street Artist Community.)
+(image: 02_zuka.jpg caption: Zuka Arts Guild, Urban Nomads, 2003. Acrylic on canvas. Courtesy the 14th Street Artist Community.)
+(image: 03_zuka.jpg caption: Zuka Arts Guild, We are the flowers, 2017. Latex on panels. Courtesy the 14th Street Artist Community.)
+(image: 04_zuka.jpg caption: Zuka Arts Guild, JustJazz B, 2014. Acrylic on canvas. Courtesy the 14th Street Artist Community.)
+(image: 05_zuka.jpg caption: Zuka Arts Guild, JustJazz A, 2014. Acrylic on canvas. Courtesy the 14th Street Artist Community.)
+
+
+++++
+
+The Zuka Arts Guild seeks to promote knowledge and participation in the visual arts through exhibitions, teaching programs, workshops, seminars and selected public art projects. The Guild is dedicated to artistic development through inter-organizational skill sharing. Zuka contributes to community, educational and cultural enrichment through the promotion and exhibition of art executed by artists of all proficiency levels.
+
+(…columns)
+
+----
+
+Tags: Saturday,Installation,Painting,Social_Practice,ADA_Accessible
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

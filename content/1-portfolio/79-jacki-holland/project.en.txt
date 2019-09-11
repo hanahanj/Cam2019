@@ -1,0 +1,54 @@
+Title: Jacki Holland
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 03_holland.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 4262 Botanical Ave, St. Louis, MO 63110
+**Media:** Fiber, Jewelry, Sculpture
+**Studio Features:** Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.jackiholland.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/jackiholland text: Instagram class: button button-blue-outline)
+
+
+(image: 01_holland.jpg caption: Jacki Holland, Untitled, 2017. Horsehair, antler, silk. Courtesy the artist. )
+(image: 02_holland.jpg caption: Jacki Holland, Untitled, 2015. Mourning trim and dyed feathers. Courtesy the artist. )
+(image: 03_holland.jpg caption: Jacki Holland, Untitled, 2017. Glass beads, cotton and linen. Courtesy the artist. )
+(image: 04_holland.jpg caption: Jacki Holland, Untitled, 2018. Obsidian, waxed cotton and silk. Courtesy the artist. )
+(image: 05_holland.jpg caption: Jacki Holland, Untitled, 2018. Horse hair and waxed cotton. Courtesy the artist. )
+
+
+++++
+
+To create is to be a part of the world around me.<br> 
+When I begin a new piece I become lost in the stitches... It becomes a moving meditation, a way to explore ideas bigger than the world around me. It is my way to connect with others that requires no words. The work speaks to them. The pieces I design blend antique findings and objects from the natural world to create a talisman, an object imbued with a language all it's own. My hope is that the viewer will imagine a story for each piece and incorporate that story into their own lives.
+
+(…columns)
+
+----
+
+Tags: Sunday,Fiber,Jewelry,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

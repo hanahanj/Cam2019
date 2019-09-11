@@ -1,0 +1,56 @@
+Title: Margaret Keller
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_keller.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Soulard Fine Arts Building, 1007 Russell Blvd, #306 (rear side door/loading dock), St. Louis, MO 63104
+**Media:** Installation, Painting, Social Practice
+**Studio Features:** ADA Accessible, Restroom, Work For Sale
+
+(link: http://www.margaretkellerstudio.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/margaretkellerstudio text: Instagram class: button button-blue-outline)
+
+
+(image: 01_keller.jpg caption: Margaret Keller, USofA Drone Carpet, 2017. 3D printed SLS nylon sculptures. Courtesy the artist and Gallery 210.)
+(image: 02_keller.jpg caption: Margaret Keller, Proliferate, 2017. Oil paint on fresco in 12 Altoid boxes. Courtesy the artist and Gallery 210.)
+(image: 03_keller.jpg caption: Margaret Keller, Darkwoods l-lll, 2016-2017, mixed media collage with drawing, Courtesy the artist and Gallery 210.)
+(image: 04_keller.jpg caption: Margaret Keller, Arch City, 2017, oil and acrylic on canvas, Courtesy the artist and Center of Contemporary Art [COCA].)
+(image: 05_keller.jpg caption: Margaret Keller, Off the Record, 2017, video, Courtesy the artist and Gallery 210.)
+
+
+++++
+
+I examine the relationships between nature, contemporary culture and technology through work in related series using installation, drawing, digital media, printmaking, and painting. Currently, my series focuses on surveillance, natural disasters, and our experience of nature in this digital age. <br>
+As a 2017 recipient of the Regional Arts Commission Artist Fellowship Grant, I learned 3D design and printing, resulting in a one-person exhibition of 100 surveillance drone sculptures at Gallery 210 at UMSL. <br>
+My degrees are from the University of Missouri-Columbia (in drawing) and Washington University (MFA), along with post-graduate study in garden design at London University and electronic media at Webster University. I also publish reviews in Delicious Line, Art in America, All the Art, and temporaryartreview, among others. <br>
+My art has been exhibited in galleries, museums and collections throughout the United States, in Berlin, and Beijing. Recently, I showed at Quadratfuß/NX2-Annex Art Berlin, The Arkansas Art Center Museum in Little Rock, the RAC gallery in St. Louis, The Mitchell Museum in Mt. Vernon, Illinois, and the Center of Creative Arts in St. Louis. In 2019, my one person exhibit The Space Between will be at The William and Florence Schmidt Art Center Museum, Illinois."
+
+(…columns)
+
+----
+
+Tags: Saturday,Installation,Painting,Social_Practice
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

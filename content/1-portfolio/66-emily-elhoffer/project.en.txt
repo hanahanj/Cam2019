@@ -1,0 +1,53 @@
+Title: Emily Elhoffer
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_elhoffer.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 1500 Central Ave, St. Louis, MO 63139
+**Media:** Ceramics, Mixed Media, Sculpture
+**Studio Features:** Restroom, Refreshments, Work For Sale
+
+(link: http://www.emilyelhoffer.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/lumpyplop text: Instagram class: button button-blue-outline)
+
+
+(image: 01_elhoffer.jpg caption: Emily Elhoffer, I Stopped Wearing Spanx, 2017. Plaster and elastic. Courtesy the artist.)
+(image: 02_elhoffer.jpg caption: Emily Elhoffer, Tender, 2018. Plaster and elastic. Courtesy the artist.)
+(image: 03_elhoffer.jpg caption: Emily Elhoffer, Venus's Legs, 2014. Mixed media. Courtesy the artist.)
+(image: 04_elhoffer.jpg caption: Emily Elhoffer, Pore, 2017. Latex and wood. Courtesy the artist.)
+(image: 05_elhoffer.jpg caption: Emily Elhoffer, Weak in the Knees, 2014. Mixed media. Courtesy the artist.)
+
+
+++++
+
+My work is a reaction to a body dysmorphia. Confronting the viewer on their own terms, I use the body's language, its parts, to provoke and question psychosomatic situations. Through texture and evocative materials like latex and elastic, my sculptures often exist in an expansive or contractive state. Its materials are often in flux, and the viewer is faced with a sense of another "entity" that is strange but familiar.
+
+(…columns)
+
+----
+
+Tags: Sunday,Ceramics,Photography,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

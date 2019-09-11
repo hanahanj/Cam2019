@@ -1,0 +1,53 @@
+Title: Brandon Anschultz
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_anschultz.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** The Millitzer Studio & Gallery, 3103 Pestalozzi St, St. Louis, MO 63118
+**Media:** Installation, Painting, Sculpture
+**Studio Features:** Restroom, Refreshments, Work For Sale
+
+(link: http://www.anschultz.com text: Website class: button button-blue-outline)
+(link: http://www.instagram.com/banschultz text: Instagram class: button button-blue-outline)
+
+
+(image: 01_anschultz.jpg caption: Brandon Anschultz, After Party, 2018. Black disco ball, stainless steel, and sand on mahogany. Courtesy the artist and Philip Slein Gallery.)
+(image: 02_anschultz.jpg caption: Brandon Anschultz, Almost Arkansas [It Doesn't Have to Be Real], 2017. Sand and glitter on hanky. Courtesy the artist and Philip Slein Gallery.)
+(image: 03_anschultz.jpg caption: Brandon Anschultz, "Bobby Madison" [Welcome], 2017. Appropriated image, printed vellum, and fake pearls on Bristol. Courtesy the artist and Philip Slein Gallery.)
+(image: 04_anschultz.jpg caption: Brandon Anschultz, Disco [White Triangle, Pink Triangle, Black Triangle], 2018. Mirrors, colored sand, and glitter. Courtesy the artist and Philip Slein Gallery.)
+(image: 05_anschultz.jpg caption: Brandon Anschultz, J/O [Transparent], 2017. White hanky and pink stretcher bars. Courtesy the artist and Philip Slein Gallery.)
+
+
+++++
+
+My work aesthetically explores the intersection of painting, collage, sculpture and installation around themes of queer identity. Currently, I am thinking about what it was like growing up as a gay kid during the height of the AIDS crisis and rising queer visibility. Fear, rage, joy and sadness. My experiences were personally mine, but not unique. My goal is to walk the line of not being overly sentimental or showcasing personal trauma. I am attempting in the work to dive into this tense juncture between pain and possibility, examining it through the lenses of personal memory, coded signals and the art and culture of the time. While the work is rigorously formal and can be "beautiful," it both highlights and camouflages the confusion around such intense ideas. I feel that it's my role as an artist to ask more questions than to propose answers.
+
+(…columns)
+
+----
+
+Tags: Installation,Painting,Sculpture,Saturday
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

@@ -1,0 +1,53 @@
+Title: Craft Alliance Center of Art + Design - Delmar
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_craftalliancedelmar.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 6640 Delmar Blvd	, St. Louis, MO 63141
+**Media:** Jewelry, Mixed Media, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Outdoors, Work For Sale
+
+(link: https://www.craftalliance.org text: Website class: button button-blue-outline)
+(link: https://instagram.com/CraftAlliance text: Instagram class: button button-blue-outline)
+
+
+(image: 01_craftalliancedelmar.jpg caption: Kelly Miller, Rosettes Collection. Metalsmithing with powder coat paint. Courtesy the artist and Craft Alliance.)
+(image: 02_craftalliancedelmar.jpg caption: Beverly Jakub Aroh, Duet, 2018. Ceramics. Courtesy the artist and Craft Alliance.)
+(image: 03_craftalliancedelmar.jpg caption: Susan Bostwick, Bird & Berries Teapot & Tea Cup, 2015. Courtesy the artist.)
+(image: 04_craftalliancedelmar.jpg caption: Will Rimel, Barf Bag, 2017. Ceramic and acrylic paint. Courtesy the artist and Craft Alliance.)
+(image: 05_craftalliancedelmar.jpg caption: Miriam Wiegand, Licorice Tea, 2015. Millinery. Courtesy the artist and Craft Alliance.)
+
+
+++++
+
+Enriching and empowering community through craft: Craft Alliance is a non-profit art center offering contemporary craft exhibitions, classes, free community programs, and a gallery shop featuring the work of national and regional artists.
+
+(…columns)
+
+----
+
+Tags: Sunday,Jewelry,Mixed_Media,Sculpture,ADA_Accessible
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

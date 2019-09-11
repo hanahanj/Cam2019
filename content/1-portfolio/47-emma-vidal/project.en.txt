@@ -1,0 +1,56 @@
+Title: Emma Vidal
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_vidal.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Intersect Arts Center, 3636 Texas Ave, St. Louis, MO 63118
+**Media:** Drawing, Painting, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Outdoors, Restroom, Refreshments, Work For Sale
+
+(link: http://www.emmavidal.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/emmavidalartist text: Instagram class: button button-blue-outline)
+
+
+(image: 01_vidal.jpg caption: Emma Vidal, The forbidden truth, 2017. Charcoal on paper. Courtesy the artist and Coates&Scarry Gallery.)
+(image: 02_vidal.jpg caption: Emma Vidal, Constellations staring at the moon, 2017. Charcoal on paper. Courtesy the artist.)
+(image: 03_vidal.jpg caption: Emma Vidal, Aniram, 2017. Brass and acrylic on plaster. Courtesy the artist.)
+(image: 04_vidal.jpg caption: Emma Vidal, Make it Neo, 2018. Charcoal on paper. Courtesy the artist and Coates&Scarry Gallery.)
+(image: 05_vidal.png caption: Emma Vidal, Fratrem, 2017. Brass on plaster and foam. Courtesy the artist.)
+
+
+++++
+
+Taking the form of charcoal drawings, paintings and sculptures, my practice re-imagines a future world as a place whose inhabitants consist only of feral children and where Mother Nature is claiming back her own territory. <br>
+Nourished by in-depth research and largely influenced by religious anthropology, I explore a hybrid myth focusing on the beginning of collective human history and the future of societies. The idea of threat and the echo of images referring to archaic rituals of tribal populations establish a link with the civilization that I make visible in the pictorial space of my work. <br> 
+The monochrome palette seeks simplicity and timeless representation of the narrative. The play of light and dark unveils theatrical and mysterious scenes. <br> 
+The "Fetish sculptures" or totemic three-dimensional works reference a range of historical, cultural and visual objects, from primitive art with their shamanic and ancestral aspects to contemporary shiny fetishes. Mixing styles from disparate places and periods, the series embodies new symbols of belief.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Drawing,Painting,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

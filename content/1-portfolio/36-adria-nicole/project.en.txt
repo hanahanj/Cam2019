@@ -1,0 +1,53 @@
+Title: Adria Nicole
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_nicole.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Nebula, 3407 S Jefferson Ave, St. Louis, MO 63118
+**Media:** Mixed Media, Painting, Photography
+**Studio Features:** Restroom, Refreshments, Work For Sale
+
+(link: http://www.adrianicole.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/afrobohemianrhapsody text: Instagram class: button button-blue-outline)
+
+
+(image: 01_nicole.jpg caption: Adria Nicole, Black Butterfly-Pacia & Heaven, 2016. Mixed media collage. Courtesy the artist.)
+(image: 02_nicole.jpg caption: Adria Nicole, Black Butterfly-Amber & Britt, 2016. Mixed media collage. Courtesy the artist.)
+(image: 03_nicole.jpg caption: Adria Nicole, Untitled, 2016. Photography. Courtesy the artist.)
+(image: 04_nicole.jpg caption: Adria Nicole, The Little Things, 2016. Photography. Courtesy the artist.)
+(image: 05_webb.jpg caption: Adria Nicole, Fire Goddess, 2008. Watercolor and acrylic. Courtesy the artist.)
+
+
+++++
+
+Love is my religion and creating art is my prayer. I truly believe in the transformative power of art. Art has truly been a gift to my life and I feel compelled to use it to spread the gospel of Love. I am inspired by the immeasurable beauty of the world I see everyday. I choose to remain steadfast in my hope for humanity regardless of the daily news. Through my visual art, music, and healing arts practice I am able to share what I believe about the themes of personal peace, freedom, and Love.
+
+(…columns)
+
+----
+
+Tags: Saturday,Mixed_Media,Painting,Photography
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

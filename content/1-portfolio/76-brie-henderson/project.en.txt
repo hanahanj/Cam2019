@@ -1,0 +1,52 @@
+Title: Brie Henderson
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_henderson.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** The Lewis Center, 721 Kingsland Ave, St. Louis, MO 63130
+**Media:** Drawing, Painting
+**Studio Features:** ADA Accessible, Restroom, Work For Sale
+
+(link: http://www.briehenderson.net text: Website class: button button-blue-outline)
+
+
+(image: 01_henderson.jpg caption: Brie Henderson, Blue Daisy, 2018. Oil on canvas. Courtesy the artist.)
+(image: 02_henderson.jpg caption: Brie Henderson, Room 219, 2017. Oil on canvas. Courtesy the artist.)
+(image: 03_henderson.jpg caption: Brie Henderson, Alyx, 2017. Oil on canvas. Courtesy the artist.)
+(image: 04_henderson.jpg caption: Brie Henderson, Darryl, 2017. Oil on canvas. Courtesy the artist.)
+(image: 05_henderson.jpg caption: Brie Henderson, Redress, 2018. Oil on canvas. Courtesy the artist.)
+
+
+++++
+
+My work explores identity through a painting process and the concept of personal biography and future self. The work becomes a self-reflection as I pursue my obsession with the female form. The foundation of the painting is established through a loose underpainting. This first translucent layer references the defining moments in childhood, including desires and sexuality, that structure our personalities. A balance of texture between figure and ground is built up in single brushstrokes and begins to distort the subject matter from a close distance. These marks function as symbolic moments when an individual erases the parts of their foundation that seem to not serve a purpose. Areas of the underpainting are left exposed while others are covered up to illustrate how we change as we become who we are. Viewers are left weaving between figurative and abstract imagery as they navigate through a collection of marks and non-local color. A tug of war is achieved through this process showing the changes that occur in an individual.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Drawing,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

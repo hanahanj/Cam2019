@@ -1,0 +1,53 @@
+Title: Chloe West
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_west.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** The Millitzer Studio & Gallery, 3103 Pestalozzi St, St. Louis, MO 63118
+**Media:** Painting
+**Studio Features:** Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.chloe-west.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/chloe.m.west text: Instagram class: button button-blue-outline)
+
+
+(image: 01_west.jpg caption: Chloe West, Blueaille I, 2018. Oil paint on canvas. Courtesy the artist.)
+(image: 02_west.jpg caption: Chloe West, Dark Corner, 2018. Oil paint on panel. Courtesy the artist.)
+(image: 03_west.jpg caption: Chloe West, Peephole, 2018. Oil paint on panel. Courtesy the artist.)
+(image: 04_west.jpg caption: Chloe West, Plank I & II, 2018. Oil paint on canvas. Courtesy the artist.)
+(image: 05_west.jpg caption: Chloe West, Blue - eye, 2018. Oil paint on panel. Courtesy the artist.)
+
+
+++++
+
+My work looks at the inert, the incidental, and the marginal through the intimate and laborious act of painting. The works are embodiments of everyday surfaces such as window blinds and linoleum tiles as well as fragmented views of my body. My paintings fluctuate between representation and abstraction, questioning various modes of looking and the ways in which paintings can operate as both image and object. The material skins I paint form an interior space; I paint the surfaces of transitional space: thresholds between private and public. The viewer becomes implicated as they navigate through the constructed interior, aware of paintings that reside both on the wall and on the floor. The paintings both allow and deny the gaze, giving varying degrees of access to space and questioning visibility and invisibility. The work comes from a distinct awareness of the body in space and the gaze. My paintings provide a gendered relation to the history of painting, the everyday, and interiority.
+
+(…columns)
+
+----
+
+Tags: Saturday,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

@@ -1,0 +1,53 @@
+Title: Ruth Kolker
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_kolker.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Intersect Arts Center, 3636 Texas Ave, St. Louis, MO 63118
+**Media:** Mixed Media
+**Studio Features:** Refreshments, Work For Sale, ADA Accessible, Restrooms
+
+(link: http://www.ruthkolker.com text: Website class: button button-blue-outline)
+
+
+(image: 01_kolker.jpg caption: Ruth Kolker, Waterborne, 2018. Mixed-media painting. Courtesy the artist.)
+(image: 02_kolker.jpg caption: Ruth Kolker, Waterfront, 2018. Mixed-media painting. Courtesy the artist)
+(image: 03_kolker.jpg caption: Ruth Kolker, Water Crest, 2018. Mixed-media painting. Courtesy the artist)
+(image: 04_kolker.jpg caption: Ruth Kolker, Earth Series I, 2017. Mixed-media painting. Courtesy the artist.)
+(image: 05_kolker.jpg caption: Ruth Kolker, Earth Series II, 2017. Mixed-media painting. Courtesy the artist.)
+
+
+++++
+
+Combining painting and printmaking offers an exciting journey of discovery. How the two disciplines are layered help to create a strong visual texture and are often inspired by landscapes and natural forms. Pattern, texture, shape, line and color are woven together to transform the spirit of each composition. I invite you the viewer to respond.<br>
+These mixed-media paintings offer a place of escape, a space for introspection. I want you to be pulled in different directions, drawn into the real and abstract images of nature. The place where living naturally occurs can be interpreted in different ways. Incisive lines and subtle gestures and modeled forms lead you into neutral space. It is my focus to transpose the mood and spirit of each painting into a tactile fabric of paint.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Mixed_Media
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

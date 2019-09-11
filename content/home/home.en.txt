@@ -1,0 +1,9 @@
+Title: Artists
+
+----
+
+Bgcolor: #143893
+
+----
+
+Text: (link: # text: Artist List class: button button-blue-outline)

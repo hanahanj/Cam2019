@@ -1,0 +1,53 @@
+Title: Damia Smith
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_smith.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Craft Alliance Center of Art + Design - Grand Center, 501 N Grand Blvd, St. Louis, MO 63103
+**Media:** Fiber, Sculpture, Social Practice
+**Studio Features:** Restroom, Refreshments, Work For Sale
+
+(link: http://www.damiasmith.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/damia.smith text: Instagram class: button button-blue-outline)
+
+
+(image: 01_smith.jpg caption: Damia Smith, Profligacy, 2018. Found fabric and poly-fill. Courtesy the artist. )
+(image: 02_smith.jpg caption: Damia Smith, Expectations, 2017. Found fabric and poly-fill. Courtesy the artist. )
+(image: 03_smith.jpg caption: Damia Smith, Excessive, 2017. Ceramic. Courtesy the artist.)
+(image: 04_smith.jpg caption: Damia Smith, Pro-choice Earrings, 2017. Sterling silver. Courtesy the artist. )
+(image: 05_smith.jpg caption: Damia Smith, Wild Seeds, 2017. Sterling silver, copper and brass. Courtesy the artist.)
+
+
+++++
+
+The combinations of lacy, organic forms, cursive writing, and tagging on city walls create new hybrid forms. In creating a juxtaposition between urban art forms, provocative words and dainty, feminine lines, I am addressing the expectations and traditional imagery associated with woman in relation to my own surroundings and current events. My work explores ornamentation, feminism, gender role expectations, gentrification, and consumerism.
+
+(…columns)
+
+----
+
+Tags: Sunday,Fiber,Sculpture,Social_Practice
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

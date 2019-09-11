@@ -1,0 +1,54 @@
+Title: Drew Nikonowicz
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: nikonowicz_drew_01.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 7026 Dartmouth Ave, 1st Fl, St. Louis, MO 63130
+**Media:** Photography, Time-based Media
+**Studio Features:** Restroom
+
+(link: http://www.nikonowicz.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/drew_nikonowicz text: Instagram class: button button-blue-outline)
+
+
+(image: Nikonowicz_Drew_01.jpg caption: Drew Nikonowicz, From the series This World and Others Like It, 2015. Archival Inkjet Print. Courtesy the artist. )
+(image: Nikonowicz_Drew_02.jpg caption: Drew Nikonowicz, From the series This World and Others Like It, 2015. Archival Inkjet Print. Courtesy the artist. )
+(image: Nikonowicz_Drew_03.jpg caption: Drew Nikonowicz, From the series This World and Others Like It, 2015. Archival Inkjet Print. Courtesy the artist. )
+(image: Nikonowicz_Drew_04.jpg caption: Drew Nikonowicz, From the series This World and Others Like It, 2014. Archival Inkjet Print. Courtesy the artist. )
+(image: Nikonowicz_Drew_05.jpg caption: Drew Nikonowicz, The Standard 4x5, 2018. Manufactured Large Format Camera. Courtesy the artist. )
+
+
+++++
+
+My work explores experience and exploration in the 21st century. Drawing upon the language of 19th Century survey images, I question their relationship with current methods of record making. Thousands of explorable realities exist through rover and probe based imagery, virtual role-playing, and video game software. Within the contemporary wilderness, robots have replaced photographers as mediators producing images completely dislocated from human experience. This suggests that now the sublime landscape is only accessible through the boundaries of technology. My first photobook 'This World and Others Like It' will be copublished by FW:Books in Amsterdam and Yoffy Press in Atlanta Georgia later this year.<br> 
+I also recently successfully launched my company Standard Cameras on Kickstarter. We are dedicated to manufacturing affordable large format cameras and empowering more people to become photographers. Furthermore, we are committed to increasing visual literacy across the country through workshops and other educational programming.
+
+(…columns)
+
+----
+
+Tags: Sunday,Photography,Time-based_Media
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

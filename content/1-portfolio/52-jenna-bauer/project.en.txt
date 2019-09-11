@@ -1,0 +1,57 @@
+Title: Jenna Bauer
+
+----
+
+Subtitle: Macklind Appliance/Colorbridge Arts
+
+----
+
+Thumbimage: 01_bauer.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 5832 Macklind Ave, St. Louis, MO 63109
+**Media:** Drawing, Printmaking, Painting
+**Studio Features:** ADA Accessible, Child-Friendly, Refreshments, Work For Sale
+
+(link: http://www.JennaBauer.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/jennasbauer text: Instagram class: button button-blue-outline)
+
+
+(image: 01_bauer.jpg caption: Jenna Bauer, from the Respite Sequence, 2017. Oil on canvas. Courtesy the artist.)
+(image: 02_bauer.jpg caption: Jenna Bauer, Color Wheel, 2017. Oil on canvas. Courtesy the artist.)
+(image: 03_bauer.jpg caption: Jenna Bauer, On Canvas, 2013. Oil on canvas. Courtesy the artist.)
+(image: 04_bauer.jpg caption: Jenna Bauer, On Linen, 2013. Oil on linen. Courtesy the artist.)
+(image: 05_bauer.jpg caption: Jenna Bauer, Boat 1-4, 2013. Graphite/charcoal on paper. Courtesy the artist.)
+
+
+++++
+
+My practice includes painting, printmaking, drawing, teaching and producing arts education projects for the community. 
+I've maintained studios in Hell’s Kitchen NYC, the Hudson River Valley, and in my hometown: Saint Louis. <br>
+I believe: Life must be a form of art, and neither life nor art is ever at rest. 
+Even in the greatest stillness there is a molecular hum that completes life. 
+The arcs in my painting are embodiment of this fact.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Drawing,Printmaking,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

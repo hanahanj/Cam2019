@@ -1,0 +1,53 @@
+Title: Jon Young
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_young.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** The Lewis Center, 721 Kingsland Ave, St. Louis, MO 63130
+**Media:** Fiber, Mixed Media, Sculpture
+**Studio Features:** Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.jon-young.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/j0n.y0ung text: Instagram class: button button-blue-outline)
+
+
+(image: 01_young.jpg caption: Jon Young, Waymark Margin 8 [Which Desert], 2018. Mixed media. Courtesy the artist and Bruno David Gallery.)
+(image: 02_young.jpg caption: Jon Young, Waymark Margin 9 [Which Night], 2018. Mixed media. Courtesy the artist.)
+(image: 03_young.jpg caption: Jon Young, Waymark Margin 2, 2018, Mixed media. Courtesy the artist.)
+(image: 04_young.jpg caption: Jon Young, Waymark Margin 4, 2018. Mixed Media. Courtesy the artist and Bruno David Gallery.)
+(image: 05_young.jpg caption: Jon Young, Waymark Margin 7 [Which Desert, Witch Night], 2018. Mixed media. Courtesy the artist.)
+
+
+++++
+
+My work deals with the development of language, visual symbols, and signage. I appropriate symbols from various points in history: looking back to Paleolithic cave paintings and Greek pottery to contemplate visual language as well as pulling symbols from recent culture such as the line in the sand found in Western films and cartoons. Using the American West as a backdrop, I ground the position of these works in histories and mythologies of new frontiers. The work comes from my experience of continuous travel that came with being a child of a military family and reflects on the cultural displacement of my Native American identity. I use textiles, sand collected from significant places of a nomadic life, and the languages of the Arte Povera movement to create works that act as signs to become points of orientation in an ever shifting sense of place and time.
+
+(…columns)
+
+----
+
+Tags: Sunday,Fiber,Mixed_Media,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

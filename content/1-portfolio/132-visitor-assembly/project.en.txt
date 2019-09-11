@@ -1,0 +1,53 @@
+Title: Visitor Assembly
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_visitorassembly.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Pierce Arrow Building, 4814 Washington Blvd, #342, St. Louis, MO 63108
+**Media:** Digital Media, Graphic Design / Illustration, Mixed Media
+**Studio Features:** Restroom, Refreshments, Work For Sale
+
+(link: http://www.visitorassembly.co/ text: Website class: button button-blue-outline)
+(link: https://instagram.com/visitorassembly text: Instagram class: button button-blue-outline)
+
+
+(image: 01_visitorassembly.jpg caption: Alyssa Knowling, Please Touch, 2018. Installation and Artist Books. Courtesy the artist.)
+(image: 02_visitorassembly.jpg caption: Alyssa Knowling, Spread from "11 Ways to Calm Down an Angry Woman," 2018. Artist Book. Courtesy the artist.)
+(image: 03_visitorassembly.jpg caption: Alyssa Knowling, All My Eclipsed Doubts, 2018. Digital Media. Courtesy the artist.)
+(image: 04_visitorassembly.jpg caption: Marcus Stabenow, Spreads from "Extreme Fatigue," 2018. Artist Book. Courtesy the artist.)
+(image: 05_visitorassembly.jpg caption: Marcus Stabenow, Les Forges Studies, 2018. Digital Media. Courtesy the artist.)
+
+
+++++
+
+Visitor Assembly is a multidisciplinary studio cofounded by Alyssa Knowling and Marcus Stabenow. Composed of many moving parts, Visitor Assembly combines commercial and creative practices by means of design, photography, writing, installation, online platform building, and conceptual space creations. Visitor Assembly functions as a small business outwardly, but the intersections of the business and art worlds are heavily investigated by the studio. Marcus and Alyssa both maintain individual art practices and have showcased work in local and online spaces over the course of the past three years. They continue to explore the places in which their commercial and fine art practices overlap.
+
+(…columns)
+
+----
+
+Tags: Sunday,Graphic_Design,Illustration,Mixed_Media,Digital_Media
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

@@ -1,0 +1,54 @@
+Title: Steven Hayes
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_hayes.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 3805 Kosciusko St, St. Louis, MO 63118
+**Media:** Photography
+**Studio Features:** Child-Friendly, Refreshments, Work For Sale
+
+(link: http://www.athinorangehaze.photo text: Website class: button button-blue-outline)
+(link: https://instagram.com/athinorangehaze text: Instagram class: button button-blue-outline)
+
+
+(image: 01_hayes.jpg caption: Steven Hayes, TR18A, 2018. Digital photography. Courtesy the artist.)
+(image: 02_hayes.jpg caption: Steven Hayes, TR16B, 2016. Digital photography. Courtesy the artist.)
+(image: 03_hayes.jpg caption: Steven Hayes, TR16E, 2016. Digital photography. Courtesy the artist.)
+(image: 04_hayes.jpg caption: Steven Hayes, TR17A, 2017. Digital photography. Courtesy the artist.)
+(image: 05_hayes.jpg caption: Steven Hayes, TR16A, 2016. Digital photography. Courtesy the artist.)
+
+
+++++
+
+**HIGHWAY PHOTOGRAPHY**
+I photograph and explore details found on trucks in motion. By highlighting the otherwise unnoticed geometry, color, and texture of heavy freight on the highway, I seek to find detailed beauty in industrial transport.
+
+(…columns)
+
+----
+
+Tags: Saturday,Photography
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

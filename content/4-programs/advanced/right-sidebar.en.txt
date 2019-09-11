@@ -1,0 +1,35 @@
+Title: Advanced
+
+----
+
+Text:
+
+We didn't forget advanced users and developers, we give them some tools to gain more control on the website their are building.
+
+(columns…)
+### Support Widget
+Displays a widget in the kirby panel's dashboard showing support options.
+You can customize everything in this widget, it is particulary useful for web agencies who can show their support informations in their client's dashboards.
+
+++++
+
+### Build Script
+Our theme come with handy build script to allow developers to easily edit js/css files yet serve optimized files to the visitors.
+(…columns)
+
+(columns…)
+### Multilang Site
+Our Themes are ready to be translated. Only 3 steps are required.
+
+++++
+
+(…columns)
+<br>
+## Support
+- Please report any theme related bugs at <support@aritotheme.com>
+- You can also find more informations on the [Kirby CMS Documentation](http://getkirby.com/docs)
+
+
+----
+
+Bgcolor: #773fd3

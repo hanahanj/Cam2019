@@ -1,0 +1,52 @@
+Title: Nancy Exarhu
+
+----
+
+Subtitle: Studio Escargot
+
+----
+
+Thumbimage: 01_exarhu.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Pierce Arrow Building, 4814 Washington Ave, #304, St. Louis, MO 63108
+**Media:** Ceramics, Printmaking, Painting
+**Studio Features:** Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.studioescargot.net text: Website class: button button-blue-outline)
+(link: https://instagram.com/studioescargot1 text: Instagram class: button button-blue-outline)
+
+
+(image: 01_exarhu.jpg caption: Nancy Exarhu, Animula, 2017, Monotype, Courtesy the artist.)
+(image: 02_exarhu.jpg caption: Nancy Exarhu, Animule, 2017, Monotype, Courtesy the artist.)
+(image: 03_exarhu.jpg caption: Nancy Exarhu, Unreal Estate- Plot A, 2018, Ceramics and Prints on paper, Courtesy the artist.)
+(image: 04_exarhu.jpg caption: Nancy Exarhu, Unreal Estate- Plot b, 2018, Ceramics and Prints on paper, Courtesy the artist.)
+
+
+++++
+
+I explore surface design in both two and three dimensions. I combine printing and painting techniques with clay, building colorful houses that I stage in front of printed backgrounds. It is a visual elegy to the houses that have been, the houses that are and the ones we will live in.
+
+(…columns)
+
+----
+
+Tags: Sunday,Ceramics,Printmaking,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

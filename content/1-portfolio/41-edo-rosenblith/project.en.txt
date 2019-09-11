@@ -1,0 +1,63 @@
+Title: Edo Rosenblith
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_rosenblithedo.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** City Museum, 701 N 15th St, 4th Fl, St. Louis, MO 63103
+**Media:** Drawing, Printmaking, Painting
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.edorosenblith.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/edorosenblith text: Instagram class: button button-blue-outline)
+
+
+(image: 01_rosenblithedo.jpg caption: Edo Rosenblith, Double Glory, 2017. Mixed media. Courtesy the artist.)
+(image: 02_rosenblithedo.jpg caption: Edo Rosenblith, Flower Face, 2017. Mixed media. Courtesy the artist.)
+(image: 03_rosenblithedo.jpg caption: Edo Rosenblith, VS, 2017. Mixed media. Courtesy the artist.)
+(image: 04_rosenblithedo.jpg caption: Edo Rosenblith, Blue Nights, 2017. Mixed media. Courtesy the artist.)
+(image: 05_rosenblithedo.jpg caption: Edo Rosenblith, Swimming Pools, 2017. Mixed media. Courtesy the artist.)
+
+
+++++
+
+Hello <br>
+If you come to my studio you will see....<br>
+drawings
+books 
+t-shirts 
+posters 
+patches 
+paintings
+& 
+prints <br> 
+....all filtered through the lens of a personalized cartoon language. I utilize these mediums as a way to create images that address personal and historical narratives that are at are sometimes grotesque or sublime and will hopefully induce a reaction from the viewer, preferably laughter.
+
+(…columns)
+
+----
+
+Tags: Saturday,Drawing,Printmaking,Painting,ADA_Accessible
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

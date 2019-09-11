@@ -1,0 +1,53 @@
+Title: Kelly Bandalos
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_bandalos.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 703 N 13th St, Unit 308, St. Louis, MO 63103
+**Media:** Digital Media, Installation, Painting
+**Studio Features:** ADA Accessible, Hablamos Español, Restroom, Refreshments, Work For Sale
+
+(link: http://www.kellybandalos.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/kellybandalosstudios text: Instagram class: button button-blue-outline)
+
+
+(image: 01_bandalos.jpg caption: Kelly Bandalos, Egor, 2016. Pastel on sanded wallis paper. Courtesy the artist and the Stuart Pork Collection.)
+(image: 02_bandalos.jpg caption: Kelly Bandalos, Gandhi Katrina, 2018. Acrylic pour and mixed media. Courtesy the artist.)
+(image: 03_bandalos.jpg caption: Kelly Bandalos, Hitchcock Presents, 2018. Digital mixed media. Courtesy the artist.)
+(image: 04_bandalos.jpg caption: Kelly Bandalos, Edgy Geisha, 2018. Digital video and prints. Courtesy the artist.)
+(image: 05_bandalos.jpg caption: Kelly Bandalos, Boudicca, 2018. Pastel on fabric in process. Courtesy the artist.)
+
+
+++++
+
+I am a design artist, painter and an installation artist. I have been a professional artist for nearly 40 years. I recently moved here from Mexico, but I have a studio in New York where we still have a home. My work is in collections in many parts of the world as well as the USA and Mexico. I have exhibited and in galleries in New York, Connecticut, New Jersey, North Carolina, Hawaii's Oahu, Maui and Kauai islands as well as several places in the Riviera Maya in Mexico, France and Japan.
+
+(…columns)
+
+----
+
+Tags: Installation,Painting,Saturday,Digital_Media,ADA_Accessible
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

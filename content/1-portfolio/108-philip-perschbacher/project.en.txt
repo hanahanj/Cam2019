@@ -1,0 +1,53 @@
+Title: Philip Perschbacher
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_perschbacher.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Phi Academy of Art, 4210 Chippewa St, St. Louis, MO 63116
+**Media:** Drawing, Painting, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.phiacademyofart.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/perschbacherartist text: Instagram class: button button-blue-outline)
+
+
+(image: 01_perschbacher.jpg caption: Philip Perschbacher, Male Nude, 2018. Graphite on paper. Courtesy the artist. )
+(image: 02_perschbacher.jpg caption: Philip Perschbacher, Portrait Sculpture, 2018. Plaster. Courtesy the artist. )
+(image: 03_perschbacher.jpg caption: Philip Perschbacher, Female Nude, 2018. Life-sized terracotta. Courtesy the artist. )
+(image: 04_perschbacher.jpg caption: Philip Perschbacher, Female Nude, 2016. Life-sized plaster. Courtesy the artist. )
+(image: 05_perschbacher.jpg caption: Philip Perschbacher, Sculptures, various years. Plaster and bronze. Courtesy the artist. )
+
+
+++++
+
+Phi Academy of Art offers a classical education in Drawing, Painting and Sculpture. Phi Academy focuses on teaching foundational art skills by direct observation of the human form, anatomy, plaster cast copies, and still lifes.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Painting,Drawing,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

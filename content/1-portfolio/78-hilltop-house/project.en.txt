@@ -1,0 +1,51 @@
+Title: Hilltop House
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_hilltop.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** 7522 Big Bend Blvd, St. Louis, MO 63119
+**Media:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+**Studio Features:** Jewelry, Mixed Media, Social Practice
+
+
+
+(image: 01_hilltop.jpg caption: Hilltop House, 2018. Courtesy Hilltop House. )
+(image: 02_hilltop.jpg caption: Maria Gianino Sculpture, 2018. Courtesy Hilltop House.)
+(image: 03_hilltop.jpg caption: Hilltop House, 2018. Courtesy Hilltop House.)
+(image: 04_hilltop.jpg caption: Hilltop House, 2018. Courtesy Hilltop House.)
+(image: 05_hilltop.jpg caption: Hilltop House Studio, 2018. Courtesy Hilltop House.)
+
+
+++++
+
+Hilltop House is an artist collective featuring the work of local and regional artists in all mediums including painting, mixed media, photography and jewelry.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Jewelry,Mixed_Media,Social_Practice
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

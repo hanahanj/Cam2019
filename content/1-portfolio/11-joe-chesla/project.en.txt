@@ -1,0 +1,55 @@
+Title: Joe Chesla
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_chesla.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 501 N Compton Ave, St. Louis, MO 63103
+**Media:** Installation, Drawing, Sculpture
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.joechesla.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/joechesla text: Instagram class: button button-blue-outline)
+
+
+(image: 01_chesla.jpg caption: Joe Chesla, Untitled [Shear], 2017. Iron oxide, graphite, and encaustic. Courtesy the artist.)
+(image: 02_chesla.jpg caption: Joe Chesla, Untitled [Driver], 2017. Iron oxide, graphite, and encaustic. Courtesy the artist.)
+(image: 03_chesla.jpg caption: Joe Chesla, Untitled [Clothespin], 2017. Iron oxide, graphite, and encaustic. Courtesy the artist.)
+(image: 04_chesla.jpg caption: Joe Chesla, Reveal, 2015. Water, algae, and ziploc bags. Courtesy the artist.)
+(image: 05_chesla.jpg caption: Joe Chesla, Breathing Room, 2016. Glass, porcelain, and metal. Courtesy the artist.)
+
+
+++++
+
+Using aspects of order, repetition, stillness and evolution, I create works of unfocused awareness. Within these pieces, we experience manifestations of internal and external, cool and comforted, filtered and clarity of vision. We find comfort in glacial speeds and spaces of great stillness. This work takes the viewer to that place of personal confrontation with beauty, stillness, isolation, and vast mindfulness. I focus this aesthetic perspective on creating sculptural objects, installation and drawings to bring the viewer to a stronger connection to this specific sense of presence. <br>
+There is a strong parallel that runs between my mixed media drawings, sculptures and installations. These works correspond directly with the specifics of the exhibition space and environment. When working with algae my photosynthetic installations literally acclimate to the space, growing and developing within the space. Larger sculptures/object oriented works also draw influence from the exhibition hall or surrounding environment.<br>
+My work as a whole is largely respondent, which is why travel has become such an important aspect of my work. To be truly present I place myself in a space of great unfamiliarity, demanding an awareness of the self and truthfulness to that which demands exploration.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Installation,Drawing,Sculpture
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

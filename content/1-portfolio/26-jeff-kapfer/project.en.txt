@@ -1,0 +1,53 @@
+Title: Jeff Kapfer
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 02_kapfer.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 1611 Locust St, 502, St. Louis, MO 63103
+**Media:** Painting
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.jeffkapfer.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/JeffKapfer text: Instagram class: button button-blue-outline)
+
+
+(image: 01_kapfer.jpg caption: Jeff Kapfer, Golden Girls, 2017. Acrylic on canvas. Courtesy the artist.)
+(image: 02_kapfer.jpg caption: Jeff Kapfer, Vultures, 2018. Acrylic on canvas. Courtesy the artist.)
+(image: 03_kapfer.jpg caption: Jeff Kapfer, Love Birds, 2018. Acrylic on canvas. Courtesy the artist.)
+(image: 04_kapfer.jpg caption: Jeff Kapfer, Rooster, 2017. Acrylic on canvas. Courtesy the artist.)
+(image: 05_kapfer.jpg caption: Jeff Kapfer, Cardinal, 2018. Acrylic on canvas. Courtesy the artist.)
+
+
+++++
+
+I earned a BFA from Webster University with an emphasis in graphic design. I combine my graphic design influence with my childhood obsession with birds to create vibrant light-hearted paintings inspired by friends, family and everyday life. I have shown my work throughout St. Louis including Houska Gallery, SOHA Gallery, and The Saint Louis Art Fair in Clayton.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

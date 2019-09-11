@@ -1,0 +1,51 @@
+Title: MEE JEY
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_jha.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** The Lewis Center, 721 Kingsland Ave, St. Louis, MO 63130
+**Media:** Mixed Media, Sculpture, Social Practice
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Work For Sale
+
+(link: http://www.artologue.in text: Website class: button button-blue-outline)
+(link: https://instagram.com/jeysushil text: Instagram class: button button-blue-outline)
+
+
+(image: 01_jha.jpg caption: Meenakshi Jha, O.C.D., 2018. Donated Fabric and wood. Courtesy the artist.)
+(image: 02_jha.jpg caption: Meenakshi Jha, O.C.D., 2018. Donated Fabric and wood. Courtesy the artist.)
+(image: 03_jha.jpg caption: Meenakshi Jha, O.C.D., 2018. Donated Fabric and wood. Courtesy the artist.)
+
+
+++++
+
+Connecting and engaging with larger community into my studio practice as well as community engagement art projects are my greatest strengths. Active participation, passive integration and open-ended dialogue between myself, my works and my audience defines my practice as an artist for the past 8 years. Having travelled through most of India and my experience of working with underprivileged communities at St. Louis has helped evolve me as a person and as an artist.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Mixed_Media,Sculpture,Social_Practice
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

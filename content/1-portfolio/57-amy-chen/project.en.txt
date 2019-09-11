@@ -1,0 +1,54 @@
+Title: Amy Chen
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_chen.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Sam Fox School of Design & Visual Arts
+**Media:** Drawing, Printmaking, Painting
+**Studio Features:** Restroom, Work For Sale
+
+(link: https://www.amychen.art/ text: Website class: button button-blue-outline)
+(link: https://instagram.com/squirrelscout text: Instagram class: button button-blue-outline)
+
+
+(image: 01_chen.jpg caption: Amy Chen, Lost Texts, 2017. Marbled india ink and pastel resist on rice paper scrolls. Courtesy the artist.)
+(image: 02_chen.jpg caption: Amy Chen, "The Talk," 2018. Marker, colored pencil, watercolor on mylar. Courtesy the artist.)
+(image: 03_chen.jpg caption: Amy Chen, dice, cut, squeeze, 2018. Linocut on marbled paper with acrylic paint collage. Courtesy the artist.)
+(image: 04_chen.jpg caption: Amy Chen, My Body is a Dumpster Fire, 2017. Oil on acrylic. Courtesy the artist.)
+(image: 05_chen.jpg caption: Amy Chen, Battle Hymn of the Tiger Mom [Translated], 2018. Stab bound book. Courtesy the artist.)
+
+
+++++
+
+Some days, I cannot pass by a mirror without feeling a violent surge of repulsion at the sight of my reflection, not because I am ugly but because I am. This dysmorphia stems from different traumas, from the persistent and pervasive racism and cultural imperialism I have experienced my entire life. How does the repeated rejection or repression of a part of oneself affect the psyche? What does it mean for me to inhabit a body that even I have rejected as an Asian-American? As a queer woman? And how do these overlapping identities affect my sense of self? Although my work is often rooted in personal exploration and reflection, the personal becomes the political because of the nature of shared identity groups and the salience of certain experiences to said groups.<br> 
+Common themes in my work include female sexuality, assimilation, biculturation, vulnerability, and anxieties. Additionally, I am also exploring ideas of flawed memory and documentation in my work. When memories become lost or flawed, how does this affect the salience of what has been forgotten? Through my work, I attempt to decolonize my body from the violence that has wrought it.
+
+(…columns)
+
+----
+
+Tags: Sunday,Drawing,Printmaking,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

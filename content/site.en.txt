@@ -1,0 +1,65 @@
+Title: Open Studios STL 2018
+
+----
+
+Author: Contemporary Art Museum St. Louis
+
+----
+
+Description: Open Studios
+
+----
+
+Keywords: Kirby,CMS,file-based,theme,template
+
+----
+
+Copyright: 
+
+© Copyright  2018 
+(link: http://https://camstl.org/ text: Contemporary Art Museum St. Louis)
+3750 Washington Boulevard
+St. Louis, MO 63108
+(314) 535–4660
+
+----
+
+Socials: 
+
+- 
+  name: Website
+  color: '#000000'
+  link: https://www.camstl.org
+- 
+  name: Facebook
+  color: '#3b5998'
+  link: >
+    https://www.facebook.com/contemporaryartmuseumstl
+- 
+  name: Twitter
+  color: '#3dacdd'
+  link: https://twitter.com/ContemporarySTL
+- 
+  name: Instagram
+  color: '#e95950'
+  link: https://www.instagram.com/camstl/
+- 
+  name: YouTube
+  color: '#ff0000'
+  link: https://www.youtube.com/contemporarystl
+
+----
+
+Showlanguageselector: false
+
+----
+
+Brandlogo: 
+
+----
+
+Brandname: 
+
+----
+
+Googleanalytics: 

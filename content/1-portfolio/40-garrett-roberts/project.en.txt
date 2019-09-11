@@ -1,0 +1,52 @@
+Title: Garrett Roberts
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_roberts.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** Soulard Art Gallery, 2028 S 12th St, St. Louis, MO 63104
+**Media:** Photography
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://soulardartgallery.wixsite.com/home text: Website class: button button-blue-outline)
+
+
+(image: 01_roberts.jpg caption: Garrett Roberts, The Arch, 2001. Photography. Courtesy the artist and Soulard Art Gallery.)
+(image: 02_roberts.jpg caption: Garrett Roberts, The Arena, 1996. Photography. Courtesy the artist and Soulard Art Gallery.)
+(image: 03_roberts.jpg caption: Garrett Roberts, Scarecrow, 2002. Photography. Courtesy the artist and Soulard Art Gallery.)
+(image: 04_roberts.jpg caption: Garrett Roberts, Swine, 2001. Photography. Courtesy the artist and Soulard Art Gallery.)
+(image: 05_roberts.jpg caption: Garrett Roberts, Smoking Skull, 2010. Photography. Courtesy the artist and Soulard Art Gallery.)
+
+
+++++
+
+I am a self-taught photographer who enjoys experimenting with toy cameras, antique lenses, and alternative methods to produce unique and interesting artwork. My award winning work has appeared in numerous art exhibits in St. Louis, Detroit, and New York City.
+
+(…columns)
+
+----
+
+Tags: Saturday,ADA_Accessible,Photography
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

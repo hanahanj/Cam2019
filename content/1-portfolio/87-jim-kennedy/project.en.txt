@@ -1,0 +1,52 @@
+Title: Jim Kennedy
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_kennedy.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Phi Academy of Art, 4210 Chippewa St, St. Louis, MO 63116
+**Media:** Drawing, Painting
+**Studio Features:** Restroom, Refreshments, Work For Sale
+
+(link: http://www.facebook.com/phiacademyofart/ text: Website class: button button-blue-outline)
+
+
+(image: 01_kennedy.jpg caption: Jim Kennedy, Female Nude, 2018. Pencil. Courtesy the artist and Phi Academy.)
+(image: 02_kennedy.jpg caption: Jim Kennedy, Standing Male Nude, 2018. Pencil. Courtesy the artist and Phi Academy.)
+(image: 03_kennedy.jpg caption: Jim Kennedy, Female Nude #2, 2018. Pencil. Courtesy the artist and Phi Academy.)
+(image: 04_kennedy.jpg caption: Jim Kennedy, Standing Female Nude, 2018. Pencil. Courtesy the artist and Phi Academy.)
+(image: 05_kennedy.jpg caption: Jim Kennedy, Reclining Female Nude, 2018. Pencil. Courtesy the artist and Phi Academy.)
+
+
+++++
+
+I draw and paint in oil. My style is fairly realistic. I like working from the figure, still-life, and some landscape.
+
+(…columns)
+
+----
+
+Tags: Sunday,Drawing,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

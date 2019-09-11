@@ -1,0 +1,26 @@
+Title: Build Script
+
+----
+
+Text:
+Our theme come with a handy build script to allow developers to easily edit js/css files yet serve optimized files to the visitors.
+We use [Gulp](http://gulpjs.com) as our build system and we includes everything you need to get you started.
+
+## Install dependencies
+First you need [Nodejs](https://nodejs.org) and [Gulp](http://gulpjs.com) installed on your system. Refer to their respective documentations for instructions on how to install.
+
+Then you can install the dependencies needed by gulp by running:
+```
+npm install
+```
+
+## Gulp Tasks:
+We includes a few Gulp tasks in the `Gulpfile.js`
+
+- **styles:** minify and sourcemap `all.css` into `all.min.css`
+- **scripts:** concatenate, minify and sourcemap js files
+- **serve:** run a local php server and watch for changes. Handy while developing.
+
+----
+
+Bgcolor: #7746d0

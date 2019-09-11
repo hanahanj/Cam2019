@@ -1,0 +1,53 @@
+Title: Mark Travers
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_travers.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Saturday, October 6
+**Address:** 2816 Chippewa St, St. Louis, MO 63118
+**Media:** Painting
+**Studio Features:** Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.marktravers.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/marktravers text: Instagram class: button button-blue-outline)
+
+
+(image: 01_travers.jpg caption: Mark Travers, Transept #1, 2018. Acrylic on wood panel. Courtesy the artist.)
+(image: 02_travers.jpg caption: Mark Travers, Transept #2, 2018. Acrylic on wood panel. Courtesy the artist.)
+(image: 03_travers.jpg caption: Mark Travers, Power Grid, 2018. Acrylic on wood panel. Courtesy the artist.)
+(image: 04_travers.jpg caption: Mark Travers, WindowWall, 2018. Acrylic on wood panel. Courtesy the artist.)
+(image: 05_travers.jpg caption: Mark Travers, Perimeter Watch, 2017. Acrylic on wood panel. Courtesy the artist.)
+
+
+++++
+
+In this series, my work has two influences: Architecture and Spirituality. There are references to architecture in each of the works shown but, as a painter, I find myself most interested in the translucence of light. I challenge myself to recreate that translucence through the layering of opaque paints. The combination of layering and translucence in my work creates a visual 'shift'—almost as if a doorway or window has opened to another dimension, much as you might experience when seeing light shining through clerestory windows in a Gothic cathedral.
+
+(…columns)
+
+----
+
+Tags: Saturday,Painting
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #e4e83b

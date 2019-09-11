@@ -1,0 +1,52 @@
+Title: Chloe Simmons
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 02_simmons.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Webster University, 8342 Big Bend Blvd, St. Louis, MO 63119
+**Media:** Digital Media, Fiber, Printmaking
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments
+
+(link: http://www.webster.edu/art text: Website class: button button-blue-outline)
+(link: https://instagram.com/chlo_bot3000 text: Instagram class: button button-blue-outline)
+
+
+(image: 01_simmons.jpg caption: Chloe Simmons, Olympia, 2018. Cotton and acrylic. Courtesy the artist.)
+(image: 02_simmons.jpg caption: Chloe Simmons, Olympia, 2018. Cotton and acrylic. Courtesy the artist.)
+(image: 04_simmons.jpg caption: Chloe Simmons, Holy Mary, 2018. Still from video. Courtesy the artist.)
+(image: 05_simmons.jpg caption: Chloe Simmons, Pool Side, 2018. Risograph print. Courtesy the artist.)
+
+
+++++
+
+All I want is to feel comfortable in a space. The air is thick, I make a dumb joke, people laugh, I feel more comfortable. Other times I disengage and start looking out the window, or at my phone, or hide myself within my own clothing. I see this in my work too. I want to show you all the weird shit; everything that I don't quite understand. I want to show you the things that make me feel uncomfortable. I want to talk about the Catholic Church and its products. I want to talk about loss of innocence. I want to talk about the sexualization of innocence. I want to talk about porn and sex and nudity and why it makes me so anxious. But at the end of the day I still want to feel comfortable so I tell a little joke, or hide these things in plain sight so that the uncomfortable might just be a little more tolerable.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Fiber,Digital_Media,Printmaking
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

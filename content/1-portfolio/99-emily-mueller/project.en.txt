@@ -1,0 +1,52 @@
+Title: Emily Mueller
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_mueller.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** The Lewis Center, 721 Kingsland Ave, St. Louis, MO 63130
+**Media:** Drawing, Printmaking, Painting
+**Studio Features:** Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.emilymuellerart.com text: Website class: button button-blue-outline)
+
+
+(image: 01_mueller.jpg caption: Emily Mueller, Untitled, 2018. Oil on drop cloth. Courtesy the artist and Sacred Heart Gallery.)
+(image: 02_mueller.jpg caption: Emily Mueller, Untitled, 2018. Oil on canvas. Courtesy the artist and Sacred Heart Gallery.)
+(image: 03_mueller.jpg caption: Emily Mueller, Untitled, 2018. Oil on canvas. Courtesy the artist and Sacred Heart Gallery.)
+(image: 04_mueller.jpg caption: Emily Mueller, Capriccio, 2017. Graphite on matte board, yarn and mesh. Courtesy the artist and Sacred Heart Gallery.)
+(image: 05_mueller.jpg caption: Emily Mueller, Untitled, 2018. Oil on drop cloth. Courtesy the artist and Sacred Heart Gallery.)
+
+
+++++
+
+My deeply personal artwork considers the relationship between memory and place, and how intertwined these can be. The molding and shaping nature of family history, and the landscapes it occurred in, are also examined in this work. Simultaneously, the unreliability of memory is acknowledged, as reflected by the shifting and fragmented images. Drawings and paintings use non-traditional surfaces and materials, that challenge two-dimensionality. The fabric-like pieces, become stiffer by drawing and painting on them, subverting the context of comfort associated with textiles. In addition, the imagery addresses a shift between when a home becomes separated from a nurturing, restful place of childhood to one that now contains harsh realities. In the drawings and paintings, interior and exterior spaces are taken from family photos and composited together.
+
+(…columns)
+
+----
+
+Tags: Sunday,Drawing,Painting,Printmaking
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86

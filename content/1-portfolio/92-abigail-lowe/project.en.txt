@@ -1,0 +1,53 @@
+Title: Abigail Lowe
+
+----
+
+Subtitle: 
+
+----
+
+Thumbimage: 01_lowe.jpg
+
+----
+
+Fullimage: 
+
+----
+
+Text: 
+
+(columns…)
+
+**Date:** Sunday, October 7
+**Address:** Craft Alliance Center of Art + Design - Grand Center, 501 N Grand Blvd, St. Louis, MO 63108
+**Media:** Drawing, Fiber, Mixed Media
+**Studio Features:** ADA Accessible, Child-Friendly, Restroom, Refreshments, Work For Sale
+
+(link: http://www.abigail-lowe.com text: Website class: button button-blue-outline)
+(link: https://instagram.com/abbylo38 text: Instagram class: button button-blue-outline)
+
+
+(image: 01_lowe.jpg caption: Abigail Lowe, Sewing Lessons, 2016. Mixed media. Courtesy the artist.)
+(image: 02_lowe.jpg caption: Abigail Lowe, Sewing Lessons (Detail), 2016. Mixed media. Courtesy the artist.)
+(image: 03_lowe.jpg caption: Abigail Lowe, Nothing Comes From Nothing, Thieflet, 2016. Mixed media. Courtesy the artist.)
+(image: 04_lowe.jpg caption: Abigail Lowe, Nothing Comes From Nothing, Thieflet [Detail], 2016. Mixed media. Courtesy the artist.)
+(image: 05_lowe.jpg caption: Abigail Lowe, So Gently Tethered, 2016. Mixed media. Courtesy the artist.)
+
+
+++++
+
+My work begins with language. Storytelling is the medium through which I locate and practice empathy, so I build imagery and form from words. Some texts I encounter in books or poems, others come spilling from my own head; their transcription and translation has become the repetitive and patient core of my practice—I make small specific gestures again and again until they accumulate to a formidable volume. Whether I am drawing, tracing, cutting, or stitching, it is repetition that engraves time onto my work. It becomes visible in a garment overflowing with hand-drawn patterns, a paper silhouette made lace-like through cutting, handwriting layered to the point of illegibility. Transforming these hours and days of labor into ornate surfaces is how I depict the beauty and difficulty of understanding the world beyond myself.
+
+(…columns)
+
+----
+
+Tags: Sunday,ADA_Accessible,Drawing,Fiber,Mixed_Media
+
+----
+
+Options: 
+
+----
+
+Bgcolor: #263d86
